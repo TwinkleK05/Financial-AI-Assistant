@@ -78,18 +78,25 @@ This improves transparency and allows users to verify the generated answers.
 
 ---
 
-## Feedback Collection
+## Feedback Loop
 
-Users can provide feedback on generated responses.
+Users can provide feedback on generated responses, and that feedback is fed back into retrieval — closing the loop rather than just collecting data.
 
-The application stores:
+The application stores, for every rated answer:
 
 - Question
+- The chunks that produced the answer
 - Rating
 - Comment
 - Timestamp
 
-Feedback is persisted in SQLite and can later be used for retrieval optimization, analytics, or model evaluation.
+At retrieval time the system:
+
+1. Pulls a larger candidate pool from the FAISS index.
+2. Converts past ratings into a per-chunk signal, weighted by how semantically similar the current question is to the question that was originally rated (so feedback on one topic does not leak into unrelated queries).
+3. Re-ranks the candidates by blending semantic similarity with this feedback signal before passing the top results to the LLM.
+
+The effect is that chunks which previously produced good answers are promoted, and chunks that produced poor answers are demoted, for semantically similar future questions. The behaviour is fully configurable (and can be switched off) in `config.py`.
 
 ---
 
@@ -274,11 +281,11 @@ to verify the response.
 
 ---
 
-### Step 9 — Feedback Collection
+### Step 9 — Feedback Loop
 
 Users may optionally provide feedback indicating whether the generated response was helpful.
 
-Feedback is stored in SQLite for future analysis and system improvement.
+Feedback is stored in SQLite against the specific chunks that produced the answer, and is then used to re-rank retrieval for semantically similar future questions (see the **Feedback Loop** feature above). This makes the system improve as it is used, rather than only collecting data for offline analysis.
 
 ---
 
@@ -299,6 +306,7 @@ Enterprise-Financial-AI-Assistant/
 │   ├── database.py
 │   ├── embedding.py
 │   ├── feedback.py
+│   ├── feedback_ranker.py
 │   ├── rbac.py
 │
 ├── frontend/
@@ -385,11 +393,15 @@ Example Response
             "source":"company_market_data.xlsx",
             "sheet":"Market Data",
             "row":5,
-            "access":"Finance"
+            "access":"Finance",
+            "chunk_id":"a1b2c3d4"
         }
-    ]
+    ],
+    "chunk_ids":["a1b2c3d4","e5f6g7h8"]
 }
 ```
+
+The `chunk_ids` identify the chunks used to build the answer. The client sends them back with feedback so ratings can be tied to specific retrieved chunks and fed into the retrieval loop.
 
 ---
 
@@ -405,7 +417,30 @@ Example Request
 {
     "question":"What is Apple's market capitalization?",
     "rating":5,
-    "comment":"Helpful"
+    "comment":"Helpful",
+    "chunk_ids":["a1b2c3d4","e5f6g7h8"]
+}
+```
+
+---
+
+## Feedback Statistics
+
+```
+GET /feedback/stats
+```
+
+Returns an aggregate view of collected feedback.
+
+Example Response
+
+```json
+{
+    "total":42,
+    "average_rating":4.1,
+    "positive":30,
+    "negative":8,
+    "chunks_with_feedback":25
 }
 ```
 
@@ -422,7 +457,7 @@ git clone https://github.com/<username>/enterprise-financial-ai-assistant.git
 Move into the project directory.
 
 ```bash
-cd enterprise-financial-ai-assistant
+cd financial-ai-assistant
 ```
 
 Create a virtual environment.
@@ -494,8 +529,8 @@ streamlit run frontend/streamlit_app.py
 # Current Limitations
 
 - The quality of generated responses depends on the relevance of retrieved document chunks.
-- Retrieval is based solely on semantic similarity and does not currently combine lexical search.
-- Feedback is collected for offline analysis and future system improvements but does not currently influence retrieval or response generation.
+- Retrieval is based on semantic similarity re-ranked with user feedback, but does not currently combine lexical (keyword) search.
+- The feedback loop improves ranking of already-indexed chunks; it does not yet fine-tune the embedding model or add new documents automatically.
 - The system is optimized for structured enterprise financial datasets.
 
 ---
@@ -503,7 +538,7 @@ streamlit run frontend/streamlit_app.py
 # Future Enhancements
 
 - Hybrid semantic and keyword retrieval
-- Retrieval result re-ranking
+- Feedback-driven fine-tuning of the embedding model (the current loop re-ranks; it does not yet retrain)
 - Automatic financial chart generation
 - Multi-turn conversational memory
 - Enterprise authentication (OAuth/SSO)
