@@ -95,8 +95,14 @@ if len(st.session_state.messages) == 0:
 # ==================================================
 # CHAT HISTORY
 # ==================================================
+#
+# Everything (answers, sources and feedback controls) is rendered
+# from session history. Rendering feedback here — rather than only on
+# the run that produced the answer — is what makes the buttons work:
+# clicking one triggers a rerun in which the question box is empty,
+# so a submit-time-only handler would never fire.
 
-for message in st.session_state.messages:
+for index, message in enumerate(st.session_state.messages):
 
     with st.chat_message(
         message["role"]
@@ -106,18 +112,49 @@ for message in st.session_state.messages:
             message["content"]
         )
 
-        if (
-            message["role"] == "assistant"
-            and "sources" in message
-        ):
+        if message["role"] == "assistant":
 
-            st.markdown("---")
+            if message.get("sources"):
 
-            st.subheader("Sources")
+                st.markdown("---")
 
-            for source in message["sources"]:
+                st.subheader("Sources")
 
-                source_card(source)
+                for source in message["sources"]:
+
+                    source_card(source)
+
+            # ------------------------------------------
+            # Feedback loop entry point
+            # ------------------------------------------
+
+            submitted_key = f"feedback_submitted_{index}"
+
+            helpful, not_helpful = feedback_buttons(
+                key=index,
+                submitted=st.session_state.get(submitted_key, False),
+            )
+
+            if helpful or not_helpful:
+
+                try:
+
+                    send_feedback(
+                        question=message.get("question", ""),
+                        rating=5 if helpful else 1,
+                        comment="Helpful" if helpful else "Not Helpful",
+                        chunk_ids=message.get("chunk_ids"),
+                    )
+
+                    st.session_state[submitted_key] = True
+
+                    st.toast("Feedback submitted!")
+
+                    st.rerun()
+
+                except Exception as error:
+
+                    st.error(str(error))
 
 # ==================================================
 # USER INPUT
@@ -140,77 +177,34 @@ if question:
         }
     )
 
-    with st.chat_message("user"):
+    try:
 
-        st.markdown(question)
+        with st.spinner("Searching knowledge base..."):
 
-    with st.chat_message("assistant"):
+            response = ask_question(
+                question=question,
+                role=role,
+            )
 
-        with st.spinner(
-            "Searching knowledge base..."
-        ):
+        st.session_state.messages.append(
+            {
+                "role": "assistant",
+                "content": response["answer"],
+                "sources": response.get("sources", []),
+                "chunk_ids": response.get("chunk_ids", []),
+                "question": question,
+            }
+        )
 
-            try:
+    except Exception as error:
 
-                response = ask_question(
-                    question=question,
-                    role=role,
-                )
+        st.session_state.messages.append(
+            {
+                "role": "assistant",
+                "content": f"⚠️ {error}",
+            }
+        )
 
-                answer = response["answer"]
-
-                sources = response["sources"]
-
-                st.markdown(answer)
-
-                if sources:
-
-                    st.markdown("---")
-
-                    st.subheader(
-                        "Sources"
-                    )
-
-                    for source in sources:
-
-                        source_card(source)
-
-                helpful, not_helpful = feedback_buttons(
-                    question
-                )
-
-                if helpful:
-
-                    send_feedback(
-                        question,
-                        rating=5,
-                        comment="Helpful",
-                    )
-
-                    st.toast(
-                        "Feedback submitted!"
-                    )
-
-                if not_helpful:
-
-                    send_feedback(
-                        question,
-                        rating=1,
-                        comment="Not Helpful",
-                    )
-
-                    st.toast(
-                        "Feedback submitted!"
-                    )
-
-                st.session_state.messages.append(
-                    {
-                        "role": "assistant",
-                        "content": answer,
-                        "sources": sources,
-                    }
-                )
-
-            except Exception as error:
-
-                st.error(str(error))
+    # Re-run so the new turn (and its working feedback controls)
+    # render through the history loop above.
+    st.rerun()

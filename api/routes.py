@@ -7,6 +7,7 @@ from .schemas import (
     AskResponse,
     FeedbackRequest,
     FeedbackResponse,
+    FeedbackStatsResponse,
     HealthResponse,
     Source,
 )
@@ -15,7 +16,7 @@ from engine.planner import create_plan
 from engine.retrieval import retrieve_chunks
 from engine.rbac import authorize_retrieval
 from engine.generator import answer_question
-from engine.feedback import save_feedback
+from engine.feedback import save_feedback, get_feedback_stats
 
 logger = logging.getLogger(__name__)
 
@@ -58,11 +59,30 @@ def feedback(
         question=request.question,
         chunk_id=request.chunk_id,
         rating=request.rating,
-        comment=request.comment
+        comment=request.comment,
+        chunk_ids=request.chunk_ids,
     )
 
     return FeedbackResponse(
         message="Feedback saved."
+    )
+
+
+# ==================================================
+# FEEDBACK STATS
+# ==================================================
+
+@router.get(
+    "/feedback/stats",
+    response_model=FeedbackStatsResponse
+)
+def feedback_stats() -> FeedbackStatsResponse:
+    """
+    Return aggregate feedback statistics.
+    """
+
+    return FeedbackStatsResponse(
+        **get_feedback_stats()
     )
 
 
@@ -155,6 +175,7 @@ def ask(
                 sheet=chunk.sheet,
                 row=chunk.row,
                 access=chunk.access,
+                chunk_id=chunk.id,
             )
 
         )
@@ -165,6 +186,8 @@ def ask(
 
         answer=answer,
 
-        sources=sources
+        sources=sources,
+
+        chunk_ids=[chunk.id for chunk in chunks],
 
     )

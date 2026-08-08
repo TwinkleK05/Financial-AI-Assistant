@@ -203,12 +203,7 @@ footer{
 
 }
 
-header{
-
-    visibility:hidden;
-
-}
-
 </style>
 """,
-    unsafe_allow_html=True)
+    unsafe_allow_html=True
+    )

@@ -16,6 +16,7 @@ class Source(BaseModel):
     sheet: Optional[str] = None
     row: Optional[int] = None
     access: str
+    chunk_id: Optional[str] = None
 
 
 # ==================================================
@@ -63,6 +64,9 @@ class AskResponse(BaseModel):
 
     answer: str
     sources: list[Source]
+    # Chunks used to build this answer. The frontend echoes these back
+    # with feedback so ratings can be tied to the exact retrieved chunks.
+    chunk_ids: list[str] = []
 
 
 # ==================================================
@@ -78,6 +82,8 @@ class FeedbackRequest(BaseModel):
     chunk_id: Optional[str] = None
     rating: int
     comment: str = ""
+    # All chunks that produced the rated answer.
+    chunk_ids: Optional[list[str]] = None
 
 
 class FeedbackResponse(BaseModel):
@@ -86,6 +92,18 @@ class FeedbackResponse(BaseModel):
     """
 
     message: str
+
+
+class FeedbackStatsResponse(BaseModel):
+    """
+    Aggregate view of collected feedback.
+    """
+
+    total: int
+    average_rating: float
+    positive: int
+    negative: int
+    chunks_with_feedback: int
 
 
 # ==================================================

@@ -225,7 +225,22 @@ def backend_status(online: bool):
 # FEEDBACK
 # ==================================================
 
-def feedback_buttons(question):
+def feedback_buttons(key, submitted=False):
+    """
+    Render thumbs up/down controls for one answer.
+
+    `key` must be stable and unique per answer (e.g. the message index)
+    so the buttons keep working across Streamlit reruns. Once feedback
+    has been submitted a confirmation is shown instead.
+
+    Returns (helpful, not_helpful) booleans.
+    """
+
+    if submitted:
+
+        st.caption("✅ Thanks for your feedback!")
+
+        return False, False
 
     c1, c2 = st.columns(2)
 
@@ -234,7 +249,7 @@ def feedback_buttons(question):
         helpful = st.button(
             "👍 Helpful",
             use_container_width=True,
-            key=f"help_{hash(question)}",
+            key=f"help_{key}",
         )
 
     with c2:
@@ -242,7 +257,7 @@ def feedback_buttons(question):
         not_helpful = st.button(
             "👎 Not Helpful",
             use_container_width=True,
-            key=f"not_help_{hash(question)}",
+            key=f"not_help_{key}",
         )
 
     return helpful, not_helpful
