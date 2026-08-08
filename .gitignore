@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Database
+financial_data.db
+
+# Processed Files
+data/processed/
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
