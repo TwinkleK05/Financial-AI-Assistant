@@ -13,6 +13,8 @@ faiss-cpu==1.15.0
 
 sentence-transformers==5.7.0
 transformers==5.14.1
-torch==2.13.0
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
 
 langchain-text-splitters==1.1.2
