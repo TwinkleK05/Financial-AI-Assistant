@@ -8,12 +8,6 @@ __pycache__/
 # Environment Variables
 .env
 
-# Database
-financial_data.db
-
-# Processed Files
-data/processed/
-
 # IDE
 .vscode/
 

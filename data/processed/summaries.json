@@ -1,0 +1,2672 @@
+[
+    {
+        "document_id": "15e39f67-7950-4dcf-9fe8-9aa9a77d5075",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Market Cap ($B): 72.9 | Stock Price ($): 71.9 | P/E Ratio: 40.1 | EV/EBITDA: 28.3 | Dividend Yield (%): 0.0 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "1bc8d413-021e-4b1e-a65c-2ffce7fb4115",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Market Cap ($B): 74.9 | Stock Price ($): 84.8 | P/E Ratio: 38 | EV/EBITDA: 27.1 | Dividend Yield (%): 0.0 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "8c996df0-d6aa-48c7-8c31-c436175a7391",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Market Cap ($B): 174.0 | Stock Price ($): 198.1 | P/E Ratio: 44 | EV/EBITDA: 32.5 | Dividend Yield (%): 0.0 | Beta: 1.4 | Country: USA"
+    },
+    {
+        "document_id": "2b1592c7-5c9f-4aca-8f3e-d802b359b541",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Market Cap ($B): 76.9 | Stock Price ($): 85.4 | P/E Ratio: 14.2 | EV/EBITDA: 9.8 | Dividend Yield (%): 0.0 | Beta: 1.1 | Country: USA"
+    },
+    {
+        "document_id": "34d49486-7469-4367-8b1b-7048b7db21ae",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Market Cap ($B): 189.9 | Stock Price ($): 209.0 | P/E Ratio: 27 | EV/EBITDA: 21.2 | Dividend Yield (%): 0.0 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "e1cfde0a-3b7b-4a83-a079-aa9e8a51a464",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Market Cap ($B): 295.9 | Stock Price ($): 325.7 | P/E Ratio: 20.3 | EV/EBITDA: 16.5 | Dividend Yield (%): 0.0 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "33bd7183-42d0-4171-ad42-524a7df35921",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Market Cap ($B): 376.2 | Stock Price ($): 405.0 | P/E Ratio: 14 | EV/EBITDA: 11.3 | Dividend Yield (%): 0.0 | Beta: 1.0 | Country: USA"
+    },
+    {
+        "document_id": "b7042159-8504-475d-97d1-ddbfc56aa284",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Market Cap ($B): 500.1 | Stock Price ($): 532.2 | P/E Ratio: 12.4 | EV/EBITDA: 10.8 | Dividend Yield (%): 1.8 | Beta: 0.9 | Country: USA"
+    },
+    {
+        "document_id": "f6c64e26-0487-4189-87d8-67b2c3bf47fa",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Market Cap ($B): 504.8 | Stock Price ($): 561.0 | P/E Ratio: 13.7 | EV/EBITDA: 11.2 | Dividend Yield (%): 2.3 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "2d8bd47a-286d-46c0-9e5f-3a68617c661d",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: Google | Market Cap ($B): 123.9 | Stock Price ($): 414.9 | P/E Ratio:        | EV/EBITDA: 58.4 | Dividend Yield (%): 0.0 | Beta: 1.4 | Country: USA"
+    },
+    {
+        "document_id": "cd4ee3a5-5dd0-4e2e-8cd2-373dd6f37326",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: Google | Market Cap ($B): 142.4 | Stock Price ($): 460.5 | P/E Ratio: 71.1 | EV/EBITDA: 49.3 | Dividend Yield (%): 0.0 | Beta: 1.5 | Country: USA"
+    },
+    {
+        "document_id": "60f6df7a-58f3-4f3d-8a58-eaa8eefd5dfe",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: Google | Market Cap ($B): 214.3 | Stock Price ($): 693.0 | P/E Ratio: 56.3 | EV/EBITDA: 40.2 | Dividend Yield (%): 0.0 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "3622f234-ae43-475f-8b7e-27ed2f2cd459",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: Google | Market Cap ($B): 103.7 | Stock Price ($): 307.7 | P/E Ratio: 22.1 | EV/EBITDA: 15.4 | Dividend Yield (%): 0.0 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "c50d3f92-45de-4949-a01a-bf52666a0e4f",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: Google | Market Cap ($B): 196.8 | Stock Price ($): 619.9 | P/E Ratio: 31.8 | EV/EBITDA: 22.3 | Dividend Yield (%): 0.0 | Beta: 1.1 | Country: USA"
+    },
+    {
+        "document_id": "ed7e5b23-d650-4db5-b61b-e8e3d58ebff3",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: Google | Market Cap ($B): 189.6 | Stock Price ($): 593.0 | P/E Ratio: 23 | EV/EBITDA: 18.2 | Dividend Yield (%): 0.0 | Beta: 1.0 | Country: USA"
+    },
+    {
+        "document_id": "496d30b4-3873-43fb-a12d-3336f5f4fa7f",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: Google | Market Cap ($B): 210.4 | Stock Price ($): 645.9 | P/E Ratio: 20.7 | EV/EBITDA: 16.5 | Dividend Yield (%): 0.0 | Beta: 1.1 | Country: USA"
+    },
+    {
+        "document_id": "3905cbec-b2bc-48fa-bc5d-5073da22e8a8",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: Google | Market Cap ($B): 232.9 | Stock Price ($): 707.4 | P/E Ratio: 22.4 | EV/EBITDA: 17.1 | Dividend Yield (%): 0.0 | Beta: 1.1 | Country: USA"
+    },
+    {
+        "document_id": "837d3a48-1705-41c8-854e-6e7a6eb220c7",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: Google | Market Cap ($B): 367.4 | Stock Price ($): 1120.7 | P/E Ratio: 28.4 | EV/EBITDA: 22.4 | Dividend Yield (%): 0.0 | Beta: 1.0 | Country: USA"
+    },
+    {
+        "document_id": "4a5aa600-70ea-42bd-a10e-091ea4560152",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Market Cap ($B): 282.8 | Stock Price ($): 26.5 | P/E Ratio: 24.9 | EV/EBITDA: 19.2 | Dividend Yield (%): 1.4 | Beta: 0.9 | Country: USA"
+    },
+    {
+        "document_id": "3ee8af5b-36c8-4cc8-9130-0856654c3afe",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Market Cap ($B): 293.4 | Stock Price ($): 29.3 | P/E Ratio: 24.4 | EV/EBITDA: 19.0 | Dividend Yield (%): 1.3 | Beta: 0.9 | Country: USA"
+    },
+    {
+        "document_id": "c216783d-c580-41ee-bc5d-e1637ed94d85",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Market Cap ($B): 329.8 | Stock Price ($): 35.6 | P/E Ratio: 23.3 | EV/EBITDA: 18.4 | Dividend Yield (%): 1.5 | Beta: 0.9 | Country: USA"
+    },
+    {
+        "document_id": "62a4aa2f-0962-4dd3-8c07-f436279c2e70",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Market Cap ($B): 172.5 | Stock Price ($): 19.4 | P/E Ratio: 11 | EV/EBITDA: 9.3 | Dividend Yield (%): 3.0 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "de623e30-a3dc-4abe-9507-686df16f2f3c",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Market Cap ($B): 261.1 | Stock Price ($): 30.5 | P/E Ratio: 19 | EV/EBITDA: 14.8 | Dividend Yield (%): 2.2 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "6dc75e45-5d71-4551-bc06-d719d972bc42",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Market Cap ($B): 236.3 | Stock Price ($): 27.9 | P/E Ratio: 13 | EV/EBITDA: 11.3 | Dividend Yield (%): 2.6 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "098307af-e06d-4ae2-bb42-284472457995",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Market Cap ($B): 218.5 | Stock Price ($): 26.0 | P/E Ratio: 9.4 | EV/EBITDA: 8.2 | Dividend Yield (%): 3.2 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "76fff680-759b-4765-b6b9-5278ca33e541",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Market Cap ($B): 224.6 | Stock Price ($): 26.8 | P/E Ratio: 13.3 | EV/EBITDA: 11.0 | Dividend Yield (%): 3.5 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "1e6f926e-5aaf-44de-9232-e4bc29770a0c",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Market Cap ($B): 311.1 | Stock Price ($): 37.4 | P/E Ratio: 14.2 | EV/EBITDA: 12.5 | Dividend Yield (%): 3.3 | Beta: 0.8 | Country: USA"
+    },
+    {
+        "document_id": "a6cdad29-de6f-42cb-9354-cfd94797905f",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Market Cap ($B): 17.5 | Stock Price ($): 47.2 | P/E Ratio: 91 | EV/EBITDA: 35.0 | Dividend Yield (%): 0.0 | Beta: 1.8 | Country: USA"
+    },
+    {
+        "document_id": "38c7f082-a049-441e-9106-67346d2da109",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Market Cap ($B): 17.5 | Stock Price ($): 39.5 | P/E Ratio: 77.5 | EV/EBITDA: 30.2 | Dividend Yield (%): 0.0 | Beta: 1.7 | Country: USA"
+    },
+    {
+        "document_id": "b091a843-1e51-40e8-ba49-226720d2679e",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Market Cap ($B): 38.0 | Stock Price ($): 92.6 | P/E Ratio: 83.7 | EV/EBITDA: 40.4 | Dividend Yield (%): 0.0 | Beta: 1.9 | Country: USA"
+    },
+    {
+        "document_id": "4c377eee-54c2-455b-bbcf-630087f38eac",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Market Cap ($B): 21.9 | Stock Price ($): 51.3 | P/E Ratio: 36.9 | EV/EBITDA: 21.0 | Dividend Yield (%): 0.0 | Beta: 1.7 | Country: USA"
+    },
+    {
+        "document_id": "de1d75af-1b2e-4b92-a029-7673c0193eb2",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Market Cap ($B): 59.7 | Stock Price ($): 134.5 | P/E Ratio: 68 | EV/EBITDA: 35.8 | Dividend Yield (%): 0.0 | Beta: 1.5 | Country: USA"
+    },
+    {
+        "document_id": "a608cd96-314d-4577-b327-34197c61a654",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Market Cap ($B): 80.9 | Stock Price ($): 180.0 | P/E Ratio: 73.6 | EV/EBITDA: 41.2 | Dividend Yield (%): 0.0 | Beta: 1.5 | Country: USA"
+    },
+    {
+        "document_id": "620ef277-e5e6-4e78-8cea-7a660ea9627a",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Market Cap ($B): 79.7 | Stock Price ($): 173.1 | P/E Ratio: 132.4 | EV/EBITDA: 44.3 | Dividend Yield (%): 0.0 | Beta: 1.6 | Country: USA"
+    },
+    {
+        "document_id": "c67900ab-d1e0-44e0-959c-3c8dbb78fa27",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Market Cap ($B): 114.0 | Stock Price ($): 250.9 | P/E Ratio:  | EV/EBITDA: 55.1 | Dividend Yield (%): 0.0 | Beta: 1.6 | Country: USA"
+    },
+    {
+        "document_id": "7396033f-c6fc-4564-8879-0e0e7fab9002",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Market Cap ($B): 183.4 | Stock Price ($): 398.8 | P/E Ratio: 614.9 | EV/EBITDA: 66.2 | Dividend Yield (%): 0.0 | Beta: 1.5 | Country: USA"
+    },
+    {
+        "document_id": "4d9c07cc-87f5-4aa8-8301-e5765102a778",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Market Cap ($B): 129.8 | Stock Price ($): 39.0 | P/E Ratio: 11.4 | EV/EBITDA: 8.5 | Dividend Yield (%): 3.6 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "fa02c338-ca08-4565-a9f2-a19817ff6b80",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Market Cap ($B): 158.0 | Stock Price ($): 48.1 | P/E Ratio: 11.2 | EV/EBITDA: 8.7 | Dividend Yield (%): 3.0 | Beta: 1.1 | Country: USA"
+    },
+    {
+        "document_id": "6e8a0f27-1ff7-4795-9d34-07cc32fdb3bd",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Market Cap ($B): 145.5 | Stock Price ($): 43.7 | P/E Ratio: 9.5 | EV/EBITDA: 7.0 | Dividend Yield (%): 3.2 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "667d1771-9695-4f2d-a371-b2e7a47fe133",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Market Cap ($B): 118.3 | Stock Price ($): 31.5 | P/E Ratio: 21.1 | EV/EBITDA: 12.2 | Dividend Yield (%): 3.3 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "432faf7c-fe09-410e-8b54-bd5e9104cfc1",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Market Cap ($B): 165.8 | Stock Price ($): 41.8 | P/E Ratio: 14.2 | EV/EBITDA: 9.5 | Dividend Yield (%): 0.8 | Beta: 1.4 | Country: USA"
+    },
+    {
+        "document_id": "f30b970d-8131-4d65-a6c3-a66cabfa1a4e",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Market Cap ($B): 167.8 | Stock Price ($): 42.4 | P/E Ratio: 9.6 | EV/EBITDA: 7.2 | Dividend Yield (%): 2.0 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "d6e7070b-eb9f-40a3-a72e-246eca4b50af",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Market Cap ($B): 124.6 | Stock Price ($): 31.2 | P/E Ratio: 6.6 | EV/EBITDA: 5.8 | Dividend Yield (%): 3.2 | Beta: 1.4 | Country: USA"
+    },
+    {
+        "document_id": "e3368ce1-bbf1-4c3f-a36a-124a35d64379",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Market Cap ($B): 170.1 | Stock Price ($): 43.5 | P/E Ratio: 8 | EV/EBITDA: 6.9 | Dividend Yield (%): 2.9 | Beta: 1.3 | Country: USA"
+    },
+    {
+        "document_id": "22a79154-ed49-40da-8252-e35b0db4d365",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Market Cap ($B): 210.3 | Stock Price ($): 58.5 | P/E Ratio: 11.7 | EV/EBITDA: 8.4 | Dividend Yield (%): 2.7 | Beta: 1.2 | Country: USA"
+    },
+    {
+        "document_id": "61ec690a-61df-4318-868d-5fc63b46eea1",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Market Cap ($B): 83.5 | Stock Price ($): 15.2 | P/E Ratio: 10.4 | EV/EBITDA: 8.2 | Dividend Yield (%): 1.4 | Beta: 1.1 | Country: South Korea"
+    },
+    {
+        "document_id": "81436a19-236f-484d-bed5-57b309f46994",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Market Cap ($B): 104.6 | Stock Price ($): 20.5 | P/E Ratio: 11.2 | EV/EBITDA: 8.9 | Dividend Yield (%): 1.2 | Beta: 1.1 | Country: South Korea"
+    },
+    {
+        "document_id": "f2fbb833-99c1-4828-a73e-62a70b4724de",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Market Cap ($B): 105.0 | Stock Price ($): 22.1 | P/E Ratio: 12.3 | EV/EBITDA: 9.2 | Dividend Yield (%): 1.1 | Beta: 1.1 | Country: South Korea"
+    },
+    {
+        "document_id": "a18ccdd7-e4cb-4c5d-8f6c-ac88a17b5270",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Market Cap ($B): 60.2 | Stock Price ($): 12.0 | P/E Ratio: 9.2 | EV/EBITDA: 5.8 | Dividend Yield (%): 2.0 | Beta: 1.2 | Country: South Korea"
+    },
+    {
+        "document_id": "1605c86b-2cc1-4ae1-955b-8bee74beebcd",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Market Cap ($B): 110.8 | Stock Price ($): 23.5 | P/E Ratio: 13.5 | EV/EBITDA: 9.1 | Dividend Yield (%): 1.3 | Beta: 1.1 | Country: South Korea"
+    },
+    {
+        "document_id": "db6a46c6-30d1-42a3-8cc6-fb8cf79df2cb",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Market Cap ($B): 134.8 | Stock Price ($): 29.9 | P/E Ratio: 10.2 | EV/EBITDA: 7.8 | Dividend Yield (%): 1.0 | Beta: 1.1 | Country: South Korea"
+    },
+    {
+        "document_id": "64fdcc29-68fa-4513-9485-cff284448399",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Market Cap ($B): 150.3 | Stock Price ($): 33.9 | P/E Ratio: 11.5 | EV/EBITDA: 8.4 | Dividend Yield (%): 0.9 | Beta: 1.0 | Country: South Korea"
+    },
+    {
+        "document_id": "40235f87-b087-4de2-be11-3e69387bcebe",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Market Cap ($B): 186.9 | Stock Price ($): 42.5 | P/E Ratio: 9.1 | EV/EBITDA: 7.2 | Dividend Yield (%): 0.9 | Beta: 0.9 | Country: South Korea"
+    },
+    {
+        "document_id": "b54e13ad-c5fd-4993-88ef-2c20cc110a53",
+        "source": "Copy of company_market_data.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Market Cap ($B): 172.7 | Stock Price ($): 39.2 | P/E Ratio: 6.4 | EV/EBITDA: 5.9 | Dividend Yield (%): 1.1 | Beta: 0.9 | Country: South Korea"
+    },
+    {
+        "document_id": "757c5646-b61c-469e-bcbe-c9c987db7ce4",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Region: Americas | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "cff9c702-b352-4f8a-bf78-7c41e7debb5e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "c37add5a-bc4e-464d-8597-38bef7b9fdcb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Region: Greater China | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "b23378d7-c3f0-41aa-b1fa-38ebf826b22a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "5f0a8bc0-981e-4ee8-8d08-f6a630a75585",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "fda5dac9-dacf-47bf-80d1-2ddec50a47fe",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Region: Americas | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "8fbaf447-d21b-413f-bb69-600a2e0d4034",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "27dee86f-c659-4a0a-92e1-9a9bb01f3683",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Region: Greater China | Revenue Share (%): 14.9"
+    },
+    {
+        "document_id": "09eb2af4-1b2a-464d-babc-3598b41fb201",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "7e6d0260-26fc-4af7-a186-209ed94a539e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "73c2828a-a770-4302-9528-602758ad62a5",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Region: Americas | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "0f8efc43-cbd3-4948-b530-0040ce72d0a4",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "b717107f-73c8-427f-a391-af829ad5aabe",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Region: Greater China | Revenue Share (%): 16.1"
+    },
+    {
+        "document_id": "87527c2d-7a88-42e5-8e26-855ac9f10b66",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "2e067e1c-fc40-4be0-89be-72a96b3e405e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "a18abbcf-5e60-48bb-95b3-23d67f758493",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Region: Americas | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "b3f4ffd4-fcae-41d7-a30c-0806e0ab207c",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "aa9e11d4-1da9-44f4-8ce0-088fc88a233b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Region: Greater China | Revenue Share (%): 17.4"
+    },
+    {
+        "document_id": "dd71d1d5-7e72-4ab9-aa16-6e5fcc76aeb2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "657d5f35-e389-4229-bc5f-a9c5f85ccb8b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "e6171de3-6c4c-4153-8e80-43e4fed8acea",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Region: Americas | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "3be9d223-bd89-44f5-8a8a-3c2b5e7aa6b5",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "126a73c0-f5c4-40ff-85c0-ef331f783705",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Region: Greater China | Revenue Share (%): 18.6"
+    },
+    {
+        "document_id": "04b22c14-0121-48e1-952a-238fe89ee0a9",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "5bb4d180-c792-4452-9833-da9fa59ba391",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "f7282e93-8a69-4562-b007-622ecaf0c98c",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Region: Americas | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "ee888233-18ac-4db9-a5da-f823bc1b8e54",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "5b48a2de-5823-45f9-8254-a3f136743b8d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Region: Greater China | Revenue Share (%): 19.8"
+    },
+    {
+        "document_id": "a31d4c95-e560-43b6-8b47-1e6ef70678b0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "f08a9365-0e0b-45f7-a2d3-3edb435fb694",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "c2af0437-7e27-4707-b237-5366f6e38257",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Region: Americas | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "2979fffe-faa3-457e-8844-25da68e36f46",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "8356de6d-8deb-4369-a0bd-4b5b85e85ab3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Region: Greater China | Revenue Share (%): 20.9"
+    },
+    {
+        "document_id": "5e71d234-9f9b-4888-a16d-1f184a9cb327",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "7bab910d-09d2-4d80-8bef-66564f7e8cb8",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "04b8fe22-15a3-4ab1-8840-48b28349f915",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Region: Americas | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "e80355ea-7d42-44c1-b1a1-b0393df5eff6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "038c54ee-3d1f-490f-a7c4-50f32e84423e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Region: Greater China | Revenue Share (%): 22.1"
+    },
+    {
+        "document_id": "b76158ec-c18b-4290-bf60-8cf72de6625f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "4e66cf12-cee3-460a-ab27-8a4467050029",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "328c54a6-e0c3-4f40-83d2-e045767e8a60",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Region: Americas | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "3714c901-cdeb-42a9-9c43-3bfe01ca1d37",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "57b76c80-c973-489f-b2a5-1aeb36fd7f66",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Region: Greater China | Revenue Share (%): 23.4"
+    },
+    {
+        "document_id": "593c98e0-c503-4222-9e12-561ed59e9586",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Region: Japan | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "d42e7874-9a44-452d-8843-9e4c606d454f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Region: Rest of Asia Pacific | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "379c0a47-2559-4d46-a579-dcd81c5facf7",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Google | Region: United States | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "0d4ba835-31b5-40fb-97bc-6c4a290ee5b4",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "c6ba61de-0449-47a9-a9be-47dddbf2ed1e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Google | Region: Asia Pacific | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "a456b4b1-00b0-420f-b235-c0f7ed28f891",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "b25cabf1-5d68-46c0-bbda-121aefb82183",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Google | Region: United States | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "76db2fbb-d066-4df3-aa7e-b8d6e60ee571",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "208c4463-1f60-4bd5-8a07-4dafdb9951a1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Google | Region: Asia Pacific | Revenue Share (%): 19.5"
+    },
+    {
+        "document_id": "ea75837e-e6b8-41d7-aca1-b2086100d0bb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "93b3bd97-ed23-4906-aa2a-d578c597c5b4",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Google | Region: United States | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "2e817da7-b2a1-46fa-953a-5f82552b2dab",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "68ebed1d-c396-4e2a-ae54-41b68131c523",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Google | Region: Asia Pacific | Revenue Share (%): 20.7"
+    },
+    {
+        "document_id": "142a7126-182b-417a-b897-b1f47c834610",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "6087be1a-da51-4cf7-b3b2-06f5b8275f16",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Google | Region: United States | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "3db593da-7065-4e2a-a3a5-d84e286ae16a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "fefec260-ef4e-4493-9a8c-1f6c33c9c6b3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Google | Region: Asia Pacific | Revenue Share (%): 21.9"
+    },
+    {
+        "document_id": "20a5a69d-e29d-45c2-9f7d-008fe7b68b31",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "74026afa-a12f-435a-a5cb-4ae26432ee6c",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Google | Region: United States | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "adb48e8c-26d7-44cc-8e0a-462e3c439d25",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "3bead20c-8122-405e-aed3-a209ab3816c1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Google | Region: Asia Pacific | Revenue Share (%): 23.1"
+    },
+    {
+        "document_id": "d5dc21a3-93df-4bf0-985b-9035877d45cc",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "48ee4434-901e-489e-be1b-f52c2f0be4f3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Google | Region: United States | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "b49d5a75-c2fe-400a-89c5-c7d6c6d37bb9",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "0ed77aa5-37f5-4a06-a95a-4c6aa3e547ed",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Google | Region: Asia Pacific | Revenue Share (%): 24.3"
+    },
+    {
+        "document_id": "c7e479fc-d73b-4ce4-934a-3d0cde4b7c40",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "d729a797-19ed-4733-9a14-ad06ab220e71",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Google | Region: United States | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "491fe399-8f8d-4273-aacc-7d75aec83555",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "7f8f1fe0-8c9f-44ce-a32f-676e0642c2df",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Google | Region: Asia Pacific | Revenue Share (%): 25.5"
+    },
+    {
+        "document_id": "efa252eb-a4eb-4977-9f00-a1efe00dbd65",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "7fc8aa75-3ec8-4bbc-a15b-6a9e9339bade",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Google | Region: United States | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "4c069f2c-32fb-4664-af57-d6af75f6450d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "9fb6de31-7902-4bff-aa41-f54d79136fb2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Google | Region: Asia Pacific | Revenue Share (%): 26.7"
+    },
+    {
+        "document_id": "bb165c0c-9c3c-4f00-8c82-af19d16341e1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "28141cd3-5249-4ff1-aad0-fc238dd325e0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Google | Region: United States | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "e19ba125-8fcc-4a34-bf1f-6e46b7889d70",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Google | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "3369919c-8a6e-45fd-aabd-b2fcd07be4ae",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Google | Region: Asia Pacific | Revenue Share (%): 27.9"
+    },
+    {
+        "document_id": "40c53778-9e41-4809-84c7-bb12e89ad9f9",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Google | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "1cefe498-174c-43d1-8846-fa9cecd00837",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Region: United States | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "fd87028c-536a-417c-b404-c466b6114aa0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "c701055a-deae-46ab-b388-fbce772d6510",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "2532f23a-2b4f-46f5-a360-08dd1909c98d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "789bcefe-d933-4956-8b16-79bc84cbe0b3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Region: United States | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "ca59a4ec-6956-4bc7-8531-60d73ab24cfb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "de54bb10-c83b-4384-a6f5-01545019e873",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 19.5"
+    },
+    {
+        "document_id": "536af948-6055-4a37-b5d2-d4942a7e2f03",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "94a4c816-c0aa-4feb-b483-14d8353e9575",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Region: United States | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "107f5335-f04e-4bb6-aa67-41b3c4452311",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "3d51520a-4dde-4603-9678-8a4d760149bb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 20.7"
+    },
+    {
+        "document_id": "1f19770a-2861-4cf8-9a3b-5dd5f41d5ac2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "7a7055ba-feda-4971-8a1f-1dbeb6826831",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Region: United States | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "87b5d7c6-ad2b-44d4-8d5c-673d1e8bea54",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "b0f2a774-3ec8-4a34-9412-5539a1c2a7c7",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 21.9"
+    },
+    {
+        "document_id": "bc86a43a-d7ff-4bae-93b8-b430a5397912",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "a2336227-4455-4313-a5ac-1249c621b9bb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Region: United States | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "73b34efc-2f32-4172-aa56-e45fda101db7",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "7b22cc58-05e7-4f5f-8e84-408142e2d5eb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 23.1"
+    },
+    {
+        "document_id": "9bbebb4d-a102-4e28-bfc7-bda18adb1982",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "371514fa-b94c-45f3-8cc6-abb442adfad3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Region: United States | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "58b92681-513d-4b7d-8960-23f67d3d69be",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "274fe17b-de5a-48c4-950a-401953ab5578",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 24.3"
+    },
+    {
+        "document_id": "3205f842-20f5-4701-935d-15f832f3e66d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "c4b60af6-85b9-48fd-8db3-f9a9c029946b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Region: United States | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "e0de185f-4eda-410b-ab0f-4e8223a1bf92",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "351acfb3-d2ea-4c09-83ac-9c7d5513edc1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 25.5"
+    },
+    {
+        "document_id": "4343de69-59b4-4c85-bdea-c58ff991b763",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "563d1200-48d8-4fd5-926d-cbf06c030563",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Region: United States | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "c76292b7-5575-4553-a6bc-36cd4cdb5625",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "2805dc7b-40a1-4704-80c8-756c55626318",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 26.7"
+    },
+    {
+        "document_id": "d0c209a1-6afc-47e3-98a4-92e737ecc488",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "6a8c8ebf-d4ca-4657-9639-cf8dcb34d656",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Region: United States | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "e42f4cad-9eff-4f0a-a4b7-824232cd6f91",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Region: EMEA | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "eaf0aeea-bd74-41e7-ad09-818478fd0470",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Region: Asia Pacific | Revenue Share (%): 27.9"
+    },
+    {
+        "document_id": "6bc4b50b-f6d6-4a23-964e-31d502716f1b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "0248f912-4e6d-45c3-bb5c-0eb5127cb6e6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Region: North America | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "5de4999b-1611-4592-b729-92c693f41437",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "890b5994-10aa-444c-92db-9dda620e6752",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "212d94fd-2a99-482b-b7e8-f429309a3dbb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "dd6fd002-c54c-4aa6-a36a-5e1d96c15b2b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Region: North America | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "9f91061f-3730-4544-aca2-a365d9b1c5e7",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "3cbf366b-3040-48aa-9aa9-7db75ed98268",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "cf634812-de46-4c29-8fff-2177f5f8ca14",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Region: Rest of World | Revenue Share (%): 19.5"
+    },
+    {
+        "document_id": "74b2abc2-d4b0-4bb8-ada0-416c4dc8d2da",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Region: North America | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "0e160ee9-3da7-4503-a314-5e83cffef5e6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "a650bd0c-e519-4859-b7c0-d93e33afabf3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "0910839e-e454-46ca-8d61-881e5c681fdf",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Region: Rest of World | Revenue Share (%): 20.7"
+    },
+    {
+        "document_id": "46f9bb32-cdea-423f-9295-4f7b1ad99d1e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Region: North America | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "42f33c35-7385-49c5-9d0e-02ac18d1e020",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "9ddcf4ac-e1fd-4caa-940e-9b439feb800f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "2528d366-8e1e-4fc2-a9b9-d5618f9518c9",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Region: Rest of World | Revenue Share (%): 21.9"
+    },
+    {
+        "document_id": "55293b76-84fc-4cda-8c2f-08c6ceb4f78d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Region: North America | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "653a3aa2-55ab-491d-93b9-adab5cbedae1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "23828a03-4900-411f-8d6f-4660797bcc6d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "70e70066-354c-4f1f-9e62-1baa53f4af57",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Region: Rest of World | Revenue Share (%): 23.1"
+    },
+    {
+        "document_id": "4d9a7acb-335e-4405-afcd-5bd306abd2ca",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Region: North America | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "d36257fd-2166-450f-9ec2-90b42fcddbea",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "74baac9e-d7cc-445c-bba2-49f176acc067",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "f28834bd-2106-445a-af04-6ea9a2b28968",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Region: Rest of World | Revenue Share (%): 24.3"
+    },
+    {
+        "document_id": "2c80322d-8966-4421-98f7-ce80a9ee51d6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Region: North America | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "bdb27c2c-0899-4edb-8016-bf7bc7ab8d7e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "d76917b5-2184-464b-a5e4-45d2adf97ffe",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "8c94bb38-7535-4433-ae3f-3db424458d33",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Region: Rest of World | Revenue Share (%): 25.5"
+    },
+    {
+        "document_id": "85d4b8c9-81e0-4297-9bca-0d9cbcc1c26b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Region: North America | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "66c1cc11-b5dc-4747-b3bd-2f8dd06ca7e6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "c7345638-9653-4ac9-87d1-b3bb7cd5b88e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "30c5e7ff-a969-4d94-b243-2489d73cdba1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Region: Rest of World | Revenue Share (%): 26.7"
+    },
+    {
+        "document_id": "1aeca5cb-7db5-4b31-93eb-36e8910c8566",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Region: North America | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "301db849-7e31-4fc5-9e89-bf5c77ba68ce",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Region: Germany | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "4dcb17cd-c682-44ca-bda5-da83d1c4dcfa",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Region: United Kingdom | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "202deaac-a21b-4da0-85d9-a14d15ab85ef",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Region: Rest of World | Revenue Share (%): 27.9"
+    },
+    {
+        "document_id": "76d3132c-f37a-4394-b2af-cfcfe5dc82c6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Region: United States | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "faa48a73-cd6c-4dc1-a417-16812e44f7cb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "a94382a9-21f1-4c66-9a9b-114c379f9e40",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "44317bb7-4fed-4304-8ed0-66f4e6a79e91",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "109e7ec0-6e6d-456d-90dc-baef81326bc6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Region: United States | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "e90d9687-a5aa-4831-99b5-afb475f99d5f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "ec2ca36a-79de-4fea-9f6b-acbdc549c5aa",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 19.5"
+    },
+    {
+        "document_id": "1db783d3-5cc6-4d7c-a985-e584fd97a139",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "0b452eff-cf80-447f-be88-74499d515257",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Region: United States | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "a2e78b94-4633-43fc-a489-0c721e03a776",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "755133fc-76c7-4e6a-9b86-9c49b20c4050",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 20.7"
+    },
+    {
+        "document_id": "b57a56ac-8bc4-44e6-9fc1-638fa7358324",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "31d36537-5cbb-4384-870a-026c3583b1f5",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Region: United States | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "6bfe5d9d-a1a9-4ccd-ae9d-042dd1376670",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "dd7501a3-0aae-4d0f-aa65-c65550b1d00d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 21.9"
+    },
+    {
+        "document_id": "302bc5b7-49ca-4f4b-8851-c73666fe94d2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "5ccfd3d4-49e1-4640-a639-7225e15a6631",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Region: United States | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "2c2682ad-1242-465b-a397-b4c8e5b42071",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "47b95c4a-9a19-4c72-9c5a-35ab1582cdfd",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 23.1"
+    },
+    {
+        "document_id": "ba5ab5c4-3d25-481b-9fbb-a82219af4320",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "987f696a-00a2-4860-8d1e-ffd853ed4b5d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Region: United States | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "62e2602a-3a37-4de2-b661-f61f9c3ce25f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "16a5c50d-b4fb-43f7-bfe6-18f60bb2a401",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 24.3"
+    },
+    {
+        "document_id": "b006fdc0-9064-4e9a-94de-9edf74dadbff",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "1ad8fd97-5336-4eb8-92a0-194839af245d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Region: United States | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "83ec6790-e0d9-4db0-836b-a3ddad2cedd0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "3d3dbeba-7765-467c-a828-a4a31911aeb2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 25.5"
+    },
+    {
+        "document_id": "182a0942-bf60-42e7-803a-1f6327f0f115",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "5a93385a-ea79-4a3a-9a8f-099001a477a3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Region: United States | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "ad3e92a4-856f-4b51-8d2e-cab4b30086fd",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "8a2f1ca0-b8c9-4b4e-b6b4-0959dcbf7a05",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 26.7"
+    },
+    {
+        "document_id": "266ce1ef-d756-49dd-8770-0469c4fd42de",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "87da1647-6cdc-4714-97ed-3fb2523af23b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Region: United States | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "6aff2597-701b-4b60-929c-dfd4017bb53c",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Region: Europe | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "ba41b771-ed56-4d42-8d8c-2f02039b7b98",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Region: Asia Pacific | Revenue Share (%): 27.9"
+    },
+    {
+        "document_id": "3c020fd2-240c-4925-90c2-81911d543d5a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Region: Rest of World | Revenue Share (%): 18.3"
+    },
+    {
+        "document_id": "b379eaed-6b31-4254-8a03-5242f9baf143",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Region: South Korea | Revenue Share (%): 45.0"
+    },
+    {
+        "document_id": "a8f4c96f-e000-47ec-8c9f-c144a875a19f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "8a594ae8-46d7-4570-b735-d11ff770cfc6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "7e07fd1b-ea40-4390-8ebb-4ba013a07d1a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "9527600a-90e4-4bf5-a70d-1230d067b320",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "029668c7-be10-4a45-bf6a-a2947ffa9046",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Region: South Korea | Revenue Share (%): 43.8"
+    },
+    {
+        "document_id": "ea61ba70-e9e8-466b-9297-7f34a0d6aec8",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "d93c8114-7d2d-4fd2-a276-ace4db80df20",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "b78dae39-b37b-4699-9039-ab6079b51db0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 14.9"
+    },
+    {
+        "document_id": "0fa3e78e-9738-45cd-82fa-1d54f7164ceb",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "da35f5dd-e626-468d-be99-9d08368cb371",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Region: South Korea | Revenue Share (%): 42.6"
+    },
+    {
+        "document_id": "d8fcb85d-7c9f-4ac0-b8b9-97e5af6afd92",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "d94187ad-c46d-436e-b395-0155a4a478ef",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "ed2be24a-2118-4802-9047-21f69fee5662",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 16.1"
+    },
+    {
+        "document_id": "c0a186e9-ffa6-4fb9-969b-2c24722fe1c7",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "569fc0f5-7559-4281-a50f-608d7ec3a0ac",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Region: South Korea | Revenue Share (%): 41.4"
+    },
+    {
+        "document_id": "9bbd382c-3148-4e78-b017-ffad03f846bd",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "db19e224-9db2-4e79-9246-2f6b069596a8",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "43a517cd-5470-49e9-9643-e73db4ce0838",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 17.4"
+    },
+    {
+        "document_id": "7e39d656-9d80-4f93-957d-d25a952bf38d",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "8db71e61-ef1b-4c2f-89d7-8fa3953d610b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Region: South Korea | Revenue Share (%): 40.2"
+    },
+    {
+        "document_id": "a5b58e55-be17-4f15-b2c3-1cb0b23f0c22",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "35448a8c-83e2-46ae-bd06-a28f1971aa70",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "a9fbfae6-ae6e-4640-b1ea-d36463044ee1",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 18.6"
+    },
+    {
+        "document_id": "2537c982-4320-46c6-9925-ce7607767586",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "54722fa2-2afc-4f6b-8dae-4eeaf8dd6729",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Region: South Korea | Revenue Share (%): 39.0"
+    },
+    {
+        "document_id": "8e30d0bc-c98c-4057-8a12-1170dcb324c6",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "a3fb101e-37a6-4dcf-b5e6-615d9c6fd4fe",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "0c23141e-c70c-4453-a014-68177cb2f71f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 19.8"
+    },
+    {
+        "document_id": "8560fc00-87b6-4a76-9a04-41beb6430faa",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "624cf3d8-416f-4bac-b073-53a0aded62cd",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Region: South Korea | Revenue Share (%): 37.8"
+    },
+    {
+        "document_id": "bb5554a0-e308-491a-93d8-88169204c2a2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "0dbe6972-1f93-467d-a548-efd0c61fce3f",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "081a67ac-c509-4e6f-8640-1ec69b7aea74",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 20.9"
+    },
+    {
+        "document_id": "25c7100f-64d0-4534-bdba-44eb83342a14",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "3261c661-e748-4417-b470-16b50bcf90a8",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Region: South Korea | Revenue Share (%): 36.6"
+    },
+    {
+        "document_id": "426ffb37-321e-43d2-a4b4-6ed4a4d0bce3",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "b77266ca-c564-4f0a-b7d0-9f1ec261fd4b",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "7195b210-cd57-4453-8b8d-c419489d8fa0",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 22.1"
+    },
+    {
+        "document_id": "e8628359-6d27-44bd-a8aa-58dc6c58c78a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "a0575b9f-5399-4ba6-8957-0ce99c3a53d2",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Region: South Korea | Revenue Share (%): 35.4"
+    },
+    {
+        "document_id": "f4ed651f-4f36-4f19-a25b-9b942ae55bf4",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Region: Americas | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "b87f97f7-3ad9-49cb-8027-f4400ed3ce49",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Region: Europe | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "6fe36988-a44f-4c7d-9d70-e78ce9d1090e",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Region: Asia (ex-Korea) | Revenue Share (%): 23.4"
+    },
+    {
+        "document_id": "eedeb353-3581-4d25-9955-25d77fec834a",
+        "source": "Regional Revenue.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Region: Rest of World | Revenue Share (%): 13.8"
+    },
+    {
+        "document_id": "e2af24a6-bf8f-4471-9afd-3ece3807ebbf",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Apple | Segment: iPhone | Description: Smartphone hardware and related accessories"
+    },
+    {
+        "document_id": "105e9934-cfc2-4ba9-b3db-1af7068bb97a",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Apple | Segment: Mac | Description: Personal computers and laptops"
+    },
+    {
+        "document_id": "07b40765-953a-47f7-bb0d-b8a077944588",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Apple | Segment: iPad | Description: Tablet devices"
+    },
+    {
+        "document_id": "2ea0ec08-663f-433a-a8b7-578fc795cc22",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Apple | Segment: Services | Description: App Store, iTunes, iCloud, and related services"
+    },
+    {
+        "document_id": "d1e215a2-c4d7-4d01-98cd-9085c2da8ecb",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Google | Segment: Search & Advertising | Description: Core search engine and ad-driven revenue"
+    },
+    {
+        "document_id": "05f6e45e-de10-4872-bdf5-52c7fc339836",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Google | Segment: YouTube | Description: Video platform and advertising"
+    },
+    {
+        "document_id": "90a8c4fb-930c-43d3-b01b-6b2ea643ec45",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Google | Segment: Android | Description: Mobile operating system ecosystem"
+    },
+    {
+        "document_id": "4c71c254-1708-4bcf-8fbb-15706a32bdf3",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Google | Segment: Other Bets | Description: Experimental and emerging ventures"
+    },
+    {
+        "document_id": "5fb676fd-508f-4f70-ad3b-2bd020689032",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Microsoft | Segment: Windows | Description: Operating system licensing"
+    },
+    {
+        "document_id": "fb5de009-426a-468f-921f-efbcbe079229",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Microsoft | Segment: Office & Productivity | Description: Productivity software and suites"
+    },
+    {
+        "document_id": "c877de85-c1b2-4523-bf72-73382d705514",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Microsoft | Segment: Server & Tools | Description: Enterprise server and cloud infrastructure"
+    },
+    {
+        "document_id": "caf096c0-49e7-4fb6-be7f-7eab17d34787",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Microsoft | Segment: Entertainment & Devices | Description: Xbox, hardware, and consumer devices"
+    },
+    {
+        "document_id": "675ad4cb-8707-4a41-a870-17d2dc8e5f7f",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Amazon | Segment: North America Retail | Description: Domestic e-commerce operations"
+    },
+    {
+        "document_id": "8b7f61c1-a68c-42e0-9a8e-ea8b47081310",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Amazon | Segment: International Retail | Description: E-commerce operations outside North America"
+    },
+    {
+        "document_id": "5424276b-c1ae-4729-be6c-715ce28a4bc6",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Amazon | Segment: AWS | Description: Cloud computing and infrastructure services"
+    },
+    {
+        "document_id": "81a735ee-9ae3-4ff3-8ea9-2d51bd93e746",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: JPMorgan | Segment: Consumer & Community Banking | Description: Retail banking, credit cards, mortgages"
+    },
+    {
+        "document_id": "a5eac279-5d64-4131-b596-2b7dab357109",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: JPMorgan | Segment: Corporate & Investment Bank | Description: Investment banking and markets"
+    },
+    {
+        "document_id": "439ebeb2-93e9-4f3f-b183-6589c63ae7c8",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: JPMorgan | Segment: Commercial Banking | Description: Banking services for businesses"
+    },
+    {
+        "document_id": "3a7fd33c-ab3f-4056-85a9-e1289e819744",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: JPMorgan | Segment: Asset & Wealth Management | Description: Investment management and private banking"
+    },
+    {
+        "document_id": "73abf634-91ca-4303-9296-65709280d0f1",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Samsung | Segment: Mobile Communications | Description: Smartphones and mobile devices"
+    },
+    {
+        "document_id": "817cd742-2830-426f-977a-8b6ef5e3da33",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Samsung | Segment: Consumer Electronics | Description: TVs, appliances, and home electronics"
+    },
+    {
+        "document_id": "7252b15d-294b-4d2f-b564-cdfe0fb4aa1f",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Samsung | Segment: Device Solutions | Description: Semiconductors and memory chips"
+    },
+    {
+        "document_id": "8d22bbc2-d352-48b8-a09b-c18edee51fcf",
+        "source": "Business Segments.xlsx",
+        "summary": "Company: Samsung | Segment: Display | Description: Display panels and screen technology"
+    },
+    {
+        "document_id": "46faaecd-9453-4bd0-8272-fccdaf5863f7",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: Apple | Industry: Consumer Electronics & Software | Founded Year: 1976 | Headquarters: Cupertino, California, USA | Country: USA | Ticker: AAPL | Website: apple.com"
+    },
+    {
+        "document_id": "9d506d88-4913-425f-b7cf-3e0a8e66fa3e",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: Google | Industry: Internet Services & Software | Founded Year: 1998 | Headquarters: Mountain View, California, USA | Country: USA | Ticker: GOOGL | Website: google.com"
+    },
+    {
+        "document_id": "95d0d279-a309-4a32-b149-48f29ed30ecc",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: Microsoft | Industry: Software & Cloud Services | Founded Year: 1975 | Headquarters: Redmond, Washington, USA | Country: USA | Ticker: MSFT | Website: microsoft.com"
+    },
+    {
+        "document_id": "9176e39d-0b9d-420e-891b-4b4ef99c70c7",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: Amazon | Industry: E-commerce & Cloud Computing | Founded Year: 1994 | Headquarters: Seattle, Washington, USA | Country: USA | Ticker: AMZN | Website: amazon.com"
+    },
+    {
+        "document_id": "70036da4-5e2a-462e-b149-c0070e937c37",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: JPMorgan | Industry: Banking & Financial Services | Founded Year: 1799 | Headquarters: New York City, New York, USA | Country: USA | Ticker: JPM | Website: jpmorganchase.com"
+    },
+    {
+        "document_id": "ea3838f3-055c-49cf-bff0-93e63ba94787",
+        "source": "Company Profile.xlsx",
+        "summary": "Company: Samsung | Industry: Electronics & Semiconductors | Founded Year: 1938 | Headquarters: Suwon, South Korea | Country: South Korea | Ticker: 005930.KS | Website: samsung.com"
+    },
+    {
+        "document_id": "c8e6e5b4-4e2a-4aa8-a356-4a492272d861",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Apple | Executive Name: Steve Jobs | Title: Chief Executive Officer | Start Year: 1997 | End Year: 2011"
+    },
+    {
+        "document_id": "b5b37824-eaf6-4e65-9fcb-b0e57ab82150",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Apple | Executive Name: Tim Cook | Title: Chief Executive Officer | Start Year: 2011 | End Year: Present"
+    },
+    {
+        "document_id": "4125fea2-3689-47d2-a88f-2c6dabd97d52",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Google | Executive Name: Eric Schmidt | Title: Chief Executive Officer | Start Year: 2001 | End Year: 2011"
+    },
+    {
+        "document_id": "7f29dfa1-5872-4cda-9995-9bba767de7b1",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Google | Executive Name: Larry Page | Title: Chief Executive Officer | Start Year: 2011 | End Year: 2015"
+    },
+    {
+        "document_id": "f44e402d-e599-4632-b941-c1e298ff19aa",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Microsoft | Executive Name: Steve Ballmer | Title: Chief Executive Officer | Start Year: 2000 | End Year: 2014"
+    },
+    {
+        "document_id": "414a5878-1e37-49e9-aeb3-f4c8f97195fc",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Amazon | Executive Name: Jeff Bezos | Title: Founder & Chief Executive Officer | Start Year: 1994 | End Year: 2021"
+    },
+    {
+        "document_id": "4079555d-23f4-4630-b5f0-7c1bed5989a1",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: JPMorgan | Executive Name: Jamie Dimon | Title: Chairman & Chief Executive Officer | Start Year: 2006 | End Year: Present"
+    },
+    {
+        "document_id": "4e500639-b906-414c-bd6f-5af79848f306",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Samsung | Executive Name: Kun-Hee Lee | Title: Chairman | Start Year: 1987 | End Year: 2008"
+    },
+    {
+        "document_id": "4c0dfd71-5d9d-4118-9fab-a095e011e005",
+        "source": "Leadership History.xlsx",
+        "summary": "Company: Samsung | Executive Name: Lee Kun-Hee | Title: Chairman (reinstated) | Start Year: 2010 | End Year: 2014"
+    },
+    {
+        "document_id": "ad39d221-9fdd-4c10-82fb-82488728cf82",
+        "source": "Financial_Statements_2011.pdf",
+        "summary": "Corporate Financial Performance Report \u2014 2011\nA narrative summary of annual financial results for 11 publicly traded companies for fiscal year 2011,\ncovering market valuation, profitability, capital structure, and workforce size.\nThis document presents the 2011 annual financial performance of 11 com"
+    },
+    {
+        "document_id": "b96c7507-0c69-49ea-a4f9-a03c6bb1f737",
+        "source": "Financial_Statements_2011.pdf",
+        "summary": "In 2011, AIG operated in the Banking sector and reported a market capitalization of $44.06 billion.\nThe company generated revenue of $65,105 million and a gross profit of $18,692 million for the year.\nIt recorded a net income of $19,810 million and earnings per share of $11.01 for the period. AIG\nre"
+    },
+    {
+        "document_id": "3f094ac2-112a-46cd-a988-1ec2a012a19f",
+        "source": "Financial_Statements_2011.pdf",
+        "summary": "BCS reported EBITDA of $1 million, which reflects operating profitability before interest, taxes,\ndepreciation, and amortization, while the company held shareholder equity of $104,600.50 million on\nits balance sheet. Profitability relative to invested capital stood at a return on investment of 1.37%"
+    },
+    {
+        "document_id": "02dcc314-9cd6-47d9-9969-14b42aafbb2c",
+        "source": "Financial_Statements_2021.pdf",
+        "summary": "Corporate Financial Performance Report \u2014 2021\nA narrative summary of annual financial results for 11 publicly traded companies for fiscal year 2021,\ncovering market valuation, profitability, capital structure, and workforce size.\nThis document presents the 2021 annual financial performance of 11 com"
+    },
+    {
+        "document_id": "ea4b515e-ad2d-4f0d-9314-f690fb2ef238",
+        "source": "Financial_Statements_2021.pdf",
+        "summary": "In 2021, PYPL operated in the Financial Technology sector and reported a market capitalization of\n$221.57 billion. The company generated revenue of $25,371 million and a gross profit of $11,921\nmillion for the year. It recorded a net income of $4,169 million and earnings per share of $3.52 for the\np"
+    },
+    {
+        "document_id": "e92fbd11-2b42-48c2-aedc-bc964b4d9b82",
+        "source": "Financial_Statements_2021.pdf",
+        "summary": "BCS reported EBITDA of $1 million, which reflects operating profitability before interest, taxes,\ndepreciation, and amortization, while the company held shareholder equity of $96,547.15 million on\nits balance sheet. Profitability relative to invested capital stood at a return on investment of 1.67%."
+    },
+    {
+        "document_id": "42fc57ec-ff72-4401-85fc-07aca2a9331c",
+        "source": "Financial_Statements_2019.pdf",
+        "summary": "Corporate Financial Performance Report \u2014 2019\nA narrative summary of annual financial results for 11 publicly traded companies for fiscal year 2019,\ncovering market valuation, profitability, capital structure, and workforce size.\nThis document presents the 2019 annual financial performance of 11 com"
+    },
+    {
+        "document_id": "ef96c5d1-81e5-483a-8a37-97756ec7ccfb",
+        "source": "Financial_Statements_2019.pdf",
+        "summary": "In 2019, PYPL operated in the Financial Technology sector and reported a market capitalization of\n$127.01 billion. The company generated revenue of $17,772 million and a gross profit of $7,987\nmillion for the year. It recorded a net income of $2,459 million and earnings per share of $2.07 for the\npe"
+    },
+    {
+        "document_id": "608e6b3f-3a22-4ffb-b8c8-5dd8fe7eaaaf",
+        "source": "Financial_Statements_2019.pdf",
+        "summary": "BCS reported EBITDA of $1 million, which reflects operating profitability before interest, taxes,\ndepreciation, and amortization, while the company held shareholder equity of $83,841.26 million on\nits balance sheet. Profitability relative to invested capital stood at a return on investment of 0.92%."
+    },
+    {
+        "document_id": "3945e46e-8b53-4c90-8374-22cbe3f6e7e9",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 62.0"
+    },
+    {
+        "document_id": "ebb545b3-ace9-45a7-abf4-0018c250a632",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 62.9"
+    },
+    {
+        "document_id": "052380db-6e25-4ecb-be35-561e7d1e26c8",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 63.8"
+    },
+    {
+        "document_id": "0a5a2aa1-3190-41c3-ba01-4be52c472f50",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 64.7"
+    },
+    {
+        "document_id": "58e8edb0-f543-41e6-ac72-0891a3136da6",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 65.6"
+    },
+    {
+        "document_id": "22b950a1-9697-41ea-a8bb-231a792549e0",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 66.5"
+    },
+    {
+        "document_id": "421b05b1-bbec-4794-8dda-57ec8bd6204a",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 67.4"
+    },
+    {
+        "document_id": "ed258917-8ff7-4dfe-812b-9b3b59e2d07b",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: Apple | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 68.3"
+    },
+    {
+        "document_id": "ee0cf50f-3489-4c1f-bf4d-c7429833c691",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: Apple | S&P Rating: AA+ | Moody's Rating: Aa1 | ESG Score (0-100): 69.2"
+    },
+    {
+        "document_id": "38e61572-7cb8-415b-80ed-f5ee1ba1ac56",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 58.0"
+    },
+    {
+        "document_id": "a153a0df-d29c-488d-978d-7ff7cb0ea085",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 58.9"
+    },
+    {
+        "document_id": "192e6b94-5dd5-477e-bada-6cd83882d4b9",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 59.8"
+    },
+    {
+        "document_id": "bf1b4ce3-4429-40a2-a78c-c8bb2409aaea",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 60.7"
+    },
+    {
+        "document_id": "e6b6b892-4730-4d86-938d-5d9f398d2f16",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 61.6"
+    },
+    {
+        "document_id": "e8918f0d-e31f-40d4-9877-52af3821a8b7",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: Google | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 62.5"
+    },
+    {
+        "document_id": "22c4e9ee-cb15-4691-8b4b-dc55faa8a01b",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: Google | S&P Rating: AA- | Moody's Rating: Aa2 | ESG Score (0-100): 63.4"
+    },
+    {
+        "document_id": "5fc703aa-7c86-49a0-b8bb-807d0ca65f60",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: Google | S&P Rating: AA- | Moody's Rating: Aa2 | ESG Score (0-100): 64.3"
+    },
+    {
+        "document_id": "04b50f90-6112-4dc2-82e7-3a8b86295aab",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: Google | S&P Rating: AA- | Moody's Rating: Aa2 | ESG Score (0-100): 65.2"
+    },
+    {
+        "document_id": "ac64246f-36fb-4241-94f3-5fc2be41efb8",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 65.0"
+    },
+    {
+        "document_id": "9cb570c1-a212-4462-9fab-476750d6c147",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 65.9"
+    },
+    {
+        "document_id": "423635f1-de0a-4abf-8008-6c9e45a82790",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 66.8"
+    },
+    {
+        "document_id": "2ac21c12-2063-4508-b46f-c8c52cfc833c",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 67.7"
+    },
+    {
+        "document_id": "1f10554a-d12d-45d2-b7c6-14137a39201c",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 68.6"
+    },
+    {
+        "document_id": "c7857bb7-1fd1-4744-a6fe-95286bef2453",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 69.5"
+    },
+    {
+        "document_id": "8117bf2e-7f70-4ea2-a113-2dd867b82d35",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 70.4"
+    },
+    {
+        "document_id": "9683ff36-52fa-4972-8c48-5355855fae81",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | S&P Rating: AAA | Moody's Rating: Aaa | ESG Score (0-100): 71.3"
+    },
+    {
+        "document_id": "cd0def94-01d7-4118-ac9a-230170f2d07f",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | S&P Rating: AA+ | Moody's Rating: Aaa | ESG Score (0-100): 72.2"
+    },
+    {
+        "document_id": "cba6d0be-1835-446e-9d28-11bf84be1902",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 48.0"
+    },
+    {
+        "document_id": "a655d269-d11d-4506-80a8-03c0051b0c43",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 48.9"
+    },
+    {
+        "document_id": "e5e7df26-5489-4b68-8a6c-4e5fc6353a7f",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 49.8"
+    },
+    {
+        "document_id": "30f3819f-061a-4356-a665-7f82a15c7c37",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 50.7"
+    },
+    {
+        "document_id": "1a0ab1bd-042b-45d3-86b8-ef61b5915202",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 51.6"
+    },
+    {
+        "document_id": "aec5b87d-0cbd-4d36-ae39-f3004af0a044",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 52.5"
+    },
+    {
+        "document_id": "259e3d0b-7d1a-465b-8ef9-3a25eab1418d",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | S&P Rating: Not Rated | Moody's Rating: Not Rated | ESG Score (0-100): 53.4"
+    },
+    {
+        "document_id": "e8385025-0dd6-4bec-b666-f791464bb08e",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | S&P Rating: AA- | Moody's Rating: Baa1 | ESG Score (0-100): 54.3"
+    },
+    {
+        "document_id": "f590e3ad-6995-496c-aa0b-d375dcddee76",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | S&P Rating: AA- | Moody's Rating: Baa1 | ESG Score (0-100): 55.2"
+    },
+    {
+        "document_id": "957f2dd6-e28b-449b-a5ac-f6dcea03d8a5",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 55.0"
+    },
+    {
+        "document_id": "1650c529-4338-4da4-8f84-49b35d17e2a3",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 55.9"
+    },
+    {
+        "document_id": "5bae5ee4-da65-4f9c-a2bd-41b962b01d94",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 56.8"
+    },
+    {
+        "document_id": "d9a11773-11e1-429b-9400-64082ae977fd",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 57.7"
+    },
+    {
+        "document_id": "586e4f59-f173-4f16-b34a-73d02ae215d3",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 58.6"
+    },
+    {
+        "document_id": "3e4b3b8b-8efb-4ccd-94ac-3549d1aff3ec",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 59.5"
+    },
+    {
+        "document_id": "c9f5b78f-3e8f-4024-af04-c63cbb256cc5",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 60.4"
+    },
+    {
+        "document_id": "b936a46c-8335-4aee-aa4c-aa7ab82dc3ff",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 61.3"
+    },
+    {
+        "document_id": "c151a10c-82c7-4879-8b20-e6d54a3b7801",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | S&P Rating: A+ | Moody's Rating: Aa3 | ESG Score (0-100): 62.2"
+    },
+    {
+        "document_id": "2d7a5fc2-5ef3-4107-816c-7bac45e6e233",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 50.0"
+    },
+    {
+        "document_id": "b82cd330-5527-4c30-8c01-2c0f9bf7858b",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 50.9"
+    },
+    {
+        "document_id": "aab48dbd-ffc7-4533-941a-54273997241f",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 51.8"
+    },
+    {
+        "document_id": "db7a14ea-79ea-47c7-83b5-acf9e632af7a",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 52.7"
+    },
+    {
+        "document_id": "0869303a-5705-446e-87c2-e8532b32e891",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 53.6"
+    },
+    {
+        "document_id": "13c470c3-7218-48a7-866c-414fc7fbc9bc",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 54.5"
+    },
+    {
+        "document_id": "dbc2d1b8-712d-4d2e-b306-06b95725c421",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 55.4"
+    },
+    {
+        "document_id": "35a7bf9c-109f-4ead-9e7d-78fe04803348",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 56.3"
+    },
+    {
+        "document_id": "a5dbfa30-05af-499a-8f9b-e8bcb380d072",
+        "source": "Credit Ratings & ESG.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | S&P Rating: A | Moody's Rating: A1 | ESG Score (0-100): 57.2"
+    },
+    {
+        "document_id": "372fbb49-114a-40e7-b36d-0b6bea7dd2f8",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "5\n2 0 2\nA N N U A L R E P O R T"
+    },
+    {
+        "document_id": "458c5644-aaa4-4279-8343-b48a284b2f39",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "DearShareholders:\nWhenIgraduatedfromcollege,Iwantedtobeasportscaster.Aftersendingmyresumereeltomanysmall\nmarketsaroundtheU.S.,andonlygettingtwonibbles,Isettledondoingsportsproductionatamajornetwork.\nTomakeextramoney,Ialsocoachedmyformerhighschoolsoccerteam,andworkedataretailgolf store.\nSixmonthslate"
+    },
+    {
+        "document_id": "e060ea40-2b14-4593-99f7-02e2e4d8b77d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "forhowwecandeliverfaster,reducethecostof carryingmoreselection,andautomatemovementsthat\ncausestrainsandinjuriestoourteammates.AcceleratedbyacquiringKivain2012,andinvestinginnumerous\nroboticsinitiativesthelast14years,wenowhaveoveronemillionrobotsoperatinginfulfillmentcenters\nhelpingwithstowing,pickin"
+    },
+    {
+        "document_id": "09c6f8be-3bed-4037-bfad-3bbc40397b64",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "pursuePrimeAir,ourdronedeliveryservice.PrimeAirnowhasadesignthat\u2019llscale,planstoserve\ncommunitieswith30millioncustomersbyyear-end,andexpectstodeliverhalf abillionpackagesbythe\nendof thisdecade(withanaimtodeliverinside30minutes).And,overthelastyear,startinginIndiaand\ntheUAE,we\u2019vebeenworkingonAmazonNo"
+    },
+    {
+        "document_id": "0e098c49-2fa6-4c89-b08c-58de0b990b30",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "1/WehaveneverseenatechnologymorequicklyadoptedthanAI.WhenChatGPTlaunchedinNovember2022,\nitreached100millionusersintwomonths\u2014fourtimesfasterthanTikTokand15timesfasterthan\nInstagram(ChatGPTalreadyhasover900millionweeklyactiveusers).BothOpenAIandAnthropichave\nrevenue run rates reportedly approaching $3"
+    },
+    {
+        "document_id": "1ec612b2-facd-42a0-9162-8f655ee8da76",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "andotherthirdparties(asotherleadingchipscompaniesdo),ourannualrunratewouldbe~$50billion.\nThere\u2019ssomuchdemandforourchipsthatit\u2019squitepossiblewe\u2019llsellracksof themtothirdpartiesinthe\nfuture.\n5/ThewayAWS\u2019scashcycleworksisthatthefasterAWSgrows,themoreshort-termcapexwe\u2019llspend.AWS\nhastolayoutcashforland,"
+    },
+    {
+        "document_id": "1d88ade3-9e28-4c17-b6a1-b62b1145fc94",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "If youbelievethateverycustomerexperiencewillbereinventedinthecomingyearsbyAI,itmeanseven\nthecustomerexperiencesthatfeelmostcomfy,andaremostbroadlyadopted,willbereimagined.Takeour\nretailbusiness.Webelievethatcustomerswillalwayscaredeeplyaboutmassiveselection,lowprices,very\nfastdelivery,easeof use,and"
+    },
+    {
+        "document_id": "ad9c653e-f85c-46bd-8cfc-c5d86bf694cf",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Partingthoughts.Amazonhadanotherstrongyearin2025.\nAmazon\u2019srevenuein2025grew12%year-over-year(\u201cYoY\u201d)from$638billionto$717billion.Bysegment,\nNorthAmericarevenueincreased10%YoYfrom$387billionto$426billion,Internationalrevenuegrew\n13% YoY from $143 billion to $162 billion, and AWS revenue increased 20% "
+    },
+    {
+        "document_id": "7f6c79dc-c4ad-42a8-bdac-803eb4c95e24",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "1997LETTERTOSHAREHOLDERS\n(Reprintedfromthe1997AnnualReport)\nToourshareholders:\nAmazon.compassedmanymilestonesin1997:byyear-end,wehadservedmorethan1.5millioncustomers,\nyielding838%revenuegrowthto$147.8million,andextendedourmarketleadershipdespiteaggressive\ncompetitiveentry.\nButthisisDay1fortheInterne"
+    },
+    {
+        "document_id": "71c47884-65ef-406b-b34b-20ab06425f46",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "\u2022 Wewillmakeboldratherthantimidinvestmentdecisionswhereweseeasufficientprobabilityof\ngainingmarketleadershipadvantages.Someof theseinvestmentswillpayoff,otherswillnot,andwe\nwillhavelearnedanothervaluablelessonineithercase.\n\u2022 Whenforcedtochoosebetweenoptimizingtheappearanceof ourGAAPaccountingandmaxi"
+    },
+    {
+        "document_id": "3a642e88-26c6-492a-8578-ca5cd792e93b",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Infrastructure\nDuring1997,weworkedhardtoexpandourbusinessinfrastructuretosupportthesegreatlyincreased\ntraffic,sales,andservicelevels:\n\u2022 Amazon.com\u2019semployeebasegrewfrom158to614,andwesignificantlystrengthenedour\nmanagementteam.\n\u2022 Distributioncentercapacitygrewfrom50,000to285,000squarefeet,includinga7"
+    },
+    {
+        "document_id": "dc516e6f-fda1-4b25-9912-250d5fcd17e4",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n____________________________________\nFORM 10-K\n____________________________________\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended December 31, 2025\nor"
+    },
+    {
+        "document_id": "00d53b1d-6c33-4df7-974e-91e68e4537d7",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nFORM 10-K\nFor the Fiscal Year Ended December 31, 2025\nINDEX\nPage\nPART I\nItem 1. Business 3\nItem 1A. Risk Factors 6\nItem 1B. Unresolved Staff Comments 17\nItem 1C. Cybersecurity 17\nItem 2. Properties 18\nItem 3. Legal Proceedings 18\nItem 4. Mine Safety Disclosures 18\nPART II\nItem 5. Ma"
+    },
+    {
+        "document_id": "1902b54b-c52e-48f3-93b9-43854fa8470a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nPART I\nItem 1. Business\nThis Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking\nstatements based on expectations, estimates, and projections as of the date of this filing. Actual results and outcomes may differ\nmaterially from those"
+    },
+    {
+        "document_id": "2483dca4-a5b6-4ee3-80de-b76a0527f316",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Competition\nOur businesses encompass a large variety of product types, service offerings, and delivery channels. The worldwide\nmarketplace in which we compete is evolving rapidly and intensely competitive, and we face a broad array of competitors from\nmany different industry sectors around the world"
+    },
+    {
+        "document_id": "3be8f924-ce75-4311-9f5a-ca79e1bf9f56",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Available Information\nOur investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding\ninformation about us. We promptly make available on this website, free of charge, the reports that we file or furnish with the\nSecurities and Exchange Commission (\u201cSE"
+    },
+    {
+        "document_id": "74981a39-fc39-4fbf-a7a5-1cb3d44ac802",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Board of Directors\nName Age Position\nJeffrey P. Bezos 62 Executive Chair\nAndrew R. Jassy 58 President and Chief Executive Officer\nKeith B. Alexander 74 Former Chair and CEO of IronNet, Inc.\nEdith W. Cooper 64 Former Executive Vice President, Goldman Sachs Group, Inc.\nJamie S. Gorelick 75 Senior Coun"
+    },
+    {
+        "document_id": "af61964d-8af6-4593-bdfb-1086b42fb008",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "quality issues. In addition, profitability or other intended benefits, if any, in our newer activities (including development and\nadoption of automation, artificial intelligence, and machine learning technologies for customer and internal use), may not meet\nour expectations, and we may not be succes"
+    },
+    {
+        "document_id": "b763f44c-ecaf-4dfe-a97a-8f22f5b5473d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "certain technology services in China through contractual relationships with third parties that hold PRC licenses to provide\nservices. In India, the government restricts the ownership or control of Indian companies by foreign entities involved in online\nmulti-brand retail trading activities. For www."
+    },
+    {
+        "document_id": "92365020-e148-438c-b051-98880df65f25",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "We Face Risks Related to Adequately Protecting Our Intellectual Property Rights and Being Accused of Infringing\nIntellectual Property Rights of Third Parties\nWe regard our trademarks, service marks, copyrights, patents, trade dress, trade secrets, proprietary technology, and\nsimilar intellectual pro"
+    },
+    {
+        "document_id": "fe1ae2c2-6391-4fd7-975e-5db4bed91a0a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Our revenue growth may not be sustainable, and our percentage growth rates may decrease. Our revenue and operating\nprofit growth depends on the continued growth of demand for the products and services offered by us or our sellers, and our\nbusiness is affected by, among other things, general economic"
+    },
+    {
+        "document_id": "70f33491-c414-456a-894d-d545ee69299d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "\u2022 potential negative impacts of climate change, including: increased operating costs due to more frequent extreme\nweather events or climate-related changes, such as rising temperatures and water scarcity; increased investment\nrequirements associated with the transition to a low-carbon economy; decre"
+    },
+    {
+        "document_id": "9f6f9dbc-8c78-498f-9c4f-2911bc109038",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Our computer and communications systems and operations in the past have been, or in the future could be, damaged or\ninterrupted due to events such as natural or human-caused disasters (including public health crises) or extreme weather\n(including as a result of climate change), geopolitical events a"
+    },
+    {
+        "document_id": "11ea279c-290d-4eb1-8f8b-1838266c75bb",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "dependent on the volume of the other company\u2019s sales. Therefore, when the other company\u2019s offerings are not successful, the\ncompensation we receive may be lower than expected or the agreement may be terminated. Moreover, we may not be able to\nenter into additional or alternative commercial relations"
+    },
+    {
+        "document_id": "4fad85e5-9370-4f58-a224-5548604127a3",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "We Face Significant Inventory Risk\nIn addition to risks described elsewhere in this Item 1A relating to fulfillment network and inventory optimization by us\nand third parties, we are exposed to significant inventory risks that may adversely affect our operating results as a result of\nseasonality, ne"
+    },
+    {
+        "document_id": "18293c14-73ef-453e-a3f9-2bfb0501952d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "\u2022 changes in the valuation methodology of, or performance by, other e-commerce or technology companies; and\n\u2022 transactions in our common stock by major investors and certain analyst reports, news, social media activity, and\nspeculation.\nVolatility in our stock price could adversely affect our busine"
+    },
+    {
+        "document_id": "be5afc65-3f1b-4d58-a377-f247a7761e7f",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "because of legal costs, disruption of our operations, diversion of management resources, negative publicity, and other factors.\nThe outcomes of these matters are inherently unpredictable and subject to significant uncertainties. Determining legal reserves\nor possible losses from such matters involve"
+    },
+    {
+        "document_id": "14e39472-37f0-4086-8433-127ca4ffd65a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Amazon in the U.S. We are contesting this position; however, if this matter is adversely resolved, we may be required to pay\nadditional amounts with respect to current and prior periods and our taxes in the future could increase. We regularly assess the\nlikelihood of an adverse outcome resulting fro"
+    },
+    {
+        "document_id": "9e0a2a3b-5197-4b38-9213-ee504e5007a0",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 2. Properties\nAs of December 31, 2025, we operated the following facilities (in thousands):\nLeased Square Owned Square\nDescription of Use Footage (1) Footage Location\nOffice space 31,028 9,160 North America\nOffice space 26,495 1,802 International\nPhysical stores (2) 23,932 706 North America\nPhy"
+    },
+    {
+        "document_id": "2a1216c5-fca5-47f2-b149-389a08edb72f",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "PART II\nItem 5. Market for the Registrant\u2019s Common Stock, Related Shareholder Matters, and Issuer Purchases of Equity\nSecurities\nMarket Information\nOur common stock is traded on the Nasdaq Global Select Market under the symbol \u201cAMZN.\u201d\nHolders\nAs of January 28, 2026, there were 12,165 shareholders of"
+    },
+    {
+        "document_id": "3e1f207d-f43e-418d-972e-170f3c101678",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations\nForward-Looking Statements\nThis Annual Report on Form 10-K includes forward-looking statements within the meaning of the Private Securities\nLitigation Reform Act of 1995. All statements other than statement"
+    },
+    {
+        "document_id": "b2bd1838-f257-4b0f-bfb8-44e0b98b296e",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "time since they are affected by several factors, including the mix of product sales, the mix of sales by third-party sellers, the mix\nof suppliers, seasonality, and changes in payment and other terms over time, including the effect of balancing pricing and\ntiming of payment terms with suppliers.\nWe "
+    },
+    {
+        "document_id": "101aa096-9159-40ef-aa34-a0273d99ff38",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Inventories\nInventories, consisting of products available for sale, are primarily accounted for using the first-in first-out method, and\nare valued at the lower of cost and net realizable value. This valuation requires us to make judgments, based on currently\navailable information, about the likely "
+    },
+    {
+        "document_id": "4b6d6b26-e5ec-460c-9910-25b5c34eeebc",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "point in time is subject to many variables, including variability in demand, inventory management and category expansion, the\ntiming of cash receipts and payments, customer and vendor payment terms, and fluctuations in foreign exchange rates.\nCash provided by (used in) investing activities correspon"
+    },
+    {
+        "document_id": "1eebe665-499c-4754-9959-f2f77f127cce",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Results of Operations\nWe have organized our operations into three segments: North America, International, and AWS. These segments reflect\nthe way the Company evaluates its business performance and manages its operations. See Item 8 of Part II, \u201cFinancial\nStatements and Supplementary Data \u2014 Note 10 \u2014"
+    },
+    {
+        "document_id": "b0e55fa8-0950-4bef-ae4c-8d8db6cbafe6",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "by our continued focus on price, selection, and convenience for our customers, including from our fast shipping offers. Changes\nin foreign exchange rates increased International net sales by $4.9 billion in 2025.\nAWS sales increased 20% in 2025, compared to the prior year.The sales growth primarily "
+    },
+    {
+        "document_id": "d70f32da-0b61-450a-b0d6-2aa2454a9e1a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Fulfillment\nFulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International\nfulfillment centers, physical stores, and customer service centers and payment processing costs. While AWS payment\nprocessing and related transaction costs are includ"
+    },
+    {
+        "document_id": "cc9e256d-462f-4d4f-a0bb-0e944f890b0e",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "General and Administrative\nGeneral and administrative costs in 2025 did not significantly change compared to the prior year.\nOther Operating Expense (Income), Net\nOther operating expense (income), net was$763 million and $4.6 billion during 2024 and 2025. The increase in 2025 was\nprimarily related t"
+    },
+    {
+        "document_id": "e78ac96b-18f1-455a-8277-9b7b9e6a91ad",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "preferred stock in Anthropic, and the reclassification adjustments for the gains on available-for-sale debt securities from the\nportions of our convertible notes investments in Anthropic that were converted to nonvoting preferred stock during 2025.\nIncome Taxes\nOur effective tax rate is subject to s"
+    },
+    {
+        "document_id": "3a1dc39f-e437-459c-aefb-99dd9d9a940e",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Effect of Foreign Exchange Rates\nInformation regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses,\nand operating income is provided to show reported period operating results had the foreign exchange rates remained the same\nas those in effect in"
+    },
+    {
+        "document_id": "d1d5e2c6-5fec-4b2c-9c63-db97b3a2915f",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Guidance\nWe provided guidance on February 5, 2026, in our earnings release furnished on Form 8-K as set forth below. These\nforward-looking statements reflect Amazon.com\u2019s expectations as of February 5, 2026, and are subject to substantial\nuncertainty. Our results are inherently unpredictable and may"
+    },
+    {
+        "document_id": "7f89fe95-8c38-4678-b717-5dda2bf479d0",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk\nWe are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the\nmarket values of our investments. Information relating to quantitative and qualitative disclosures about market"
+    },
+    {
+        "document_id": "2828b91c-d865-4d9c-9cbe-ea886c538520",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Foreign Exchange Risk\nDuring 2025, net sales from our International segment accounted for 23% of our consolidated revenues. Net sales and\nrelated expenses generated from our internationally-focused stores, including within Canada and Mexico (which are included in\nour North America segment), are prim"
+    },
+    {
+        "document_id": "1dd36d9f-caf1-427d-93b5-f3d27d92ba6f",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 8. Financial Statements and Supplementary Data\nINDEX TO CONSOLIDATED FINANCIAL STATEMENTS\nPage\nReport of Ernst & Young LLP, Independent Registered Public Accounting Firm (PCAOB ID: 42) 34\nConsolidated Statements of Cash Flows 36\nConsolidated Statements of Operations 37\nConsolidated Statements o"
+    },
+    {
+        "document_id": "a858aa7f-0947-4b3e-b59c-1b013fa818dc",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Report of Independent Registered Public Accounting Firm\nThe Board of Directors and Shareholders\nAmazon.com, Inc.\nOpinion on the Financial Statements\nWe have audited the accompanying consolidated balance sheets of Amazon.com, Inc. (the Company) as of December 31,\n2025 and 2024, the related consolidat"
+    },
+    {
+        "document_id": "23b32ec5-a09e-47df-8847-56d479a6a9d0",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Uncertain Tax Positions\nDescription of As discussed in Notes 1 and 9 of the consolidated financial statements, the Company is subject to income\nthe Matter taxes in the U.S. and numerous foreign jurisdictions and during the ordinary course of business, there are\nmany tax positions for which the ultim"
+    },
+    {
+        "document_id": "226547e5-d78f-432e-8cde-c372ddb91f9a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF CASH FLOWS\n(in millions)\nYear Ended December 31,\n2023 2024 2025\nCASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF\nPERIOD $ 54,253 $ 73,890 $ 82,312\nOPERATING ACTIVITIES:\nNet income 30,425 59,248 77,670\nAdjustments to reconcile net income to net cas"
+    },
+    {
+        "document_id": "fb82ad43-933a-4603-934e-1b2aef08b3b0",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(in millions, except per share data)\nYear Ended December 31,\n2023 2024 2025\nNet product sales $ 255,887 $ 272,311 $ 296,266\nNet service sales 318,898 365,648 420,658\nTotal net sales 574,785 637,959 716,924\nOperating expenses:\nCost of sales 304,7"
+    },
+    {
+        "document_id": "fc7e5783-4cfc-42d5-adc3-94962874cbe5",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME\n(in millions)\nYear Ended December 31,\n2023 2024 2025\nNet income $ 30,425 $ 59,248 $ 77,670\nOther comprehensive income (loss):\nForeign currency translation adjustments, net of tax of $(55), $226, and\n$(194) 1,027 (3,333) 4,226\nAvailable"
+    },
+    {
+        "document_id": "ee02522d-6342-4a6e-a328-c22601a35450",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nCONSOLIDATED BALANCE SHEETS\n(in millions, except per share data)\nDecember 31,\n2024 2025\nASSETS\nCurrent assets:\nCash and cash equivalents $ 78,779 $ 86,810\nMarketable securities 22,423 36,219\nInventories 34,214 38,325\nAccounts receivable, net and other 55,451 67,729\nTotal current ass"
+    },
+    {
+        "document_id": "65441286-d981-47e0-b865-266a81061d4b",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY\n(in millions)\nCommon Stock\nAccumulated\nAdditional Other Total\nTreasury Paid-In Comprehensive Retained Stockholders\u2019\nShares Amount Stock Capital Income (Loss) Earnings Equity\nBalance as of January 1, 2023 10,242 $ 108 $ (7,837) $ 75,066"
+    },
+    {
+        "document_id": "b1a2db8b-1dfa-40ce-b654-e8b5b0ba078a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "AMAZON.COM, INC.\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNote 1 \u2014 DESCRIPTION OF BUSINESS, ACCOUNTING POLICIES, AND SUPPLEMENTAL DISCLOSURES\nDescription of Business\nWe seek to be Earth\u2019s most customer-centric company. In each of our segments, we serve our primary customer sets,\nconsisting of cons"
+    },
+    {
+        "document_id": "3bb2f319-7aba-440a-ad36-7e2e1a7101a2",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "physical stores. These fourth quarter charges were recorded in \u201cOther operating expense (income), net\u201d and primarily impacted\nour North America segment.\nSupplemental Cash Flow Information\nThe following table shows supplemental cash flow information (in millions):\nYear Ended December 31,\n2023 2024 20"
+    },
+    {
+        "document_id": "8a29270a-fad3-4a73-9774-0739cf632b47",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Subscription services - Our subscription sales include fees associated with Amazon Prime memberships and access to\ncontent including digital video, audiobooks, digital music, e-books, and other non-AWS subscription services. Prime\nmemberships provide our customers with access to an evolving suite of"
+    },
+    {
+        "document_id": "67eece1a-3454-4bb7-a021-02f7efef74dc",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Technology and Infrastructure\nTechnology and infrastructure costs include payroll and related expenses for employees involved in the research and\ndevelopment of new and existing products and services, development, design, and maintenance of our stores, curation and\ndisplay of products and services m"
+    },
+    {
+        "document_id": "c0ce246d-dd52-4990-9ec4-e1339de26498",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Other Income (Expense), Net\nOther income (expense), net, is as follows (in millions):\nYear Ended December 31,\n2023 2024 2025\nMarketable equity securities valuation gains (losses), net $ 984 $ (1,278) $ 1,439\nEquity warrant valuation gains (losses), net 26 (192) 553\nReclassification adjustments for g"
+    },
+    {
+        "document_id": "6c9d2720-3229-4f9e-8271-80d564db77e3",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "We measure the fair value of money market funds and certain marketable equity securities based on quoted prices in\nactive markets for identical assets or liabilities. Other marketable securities were valued either based on recent trades of\nsecurities in inactive markets or based on quoted market pri"
+    },
+    {
+        "document_id": "6b0ffec9-aa49-40a8-baaf-763b4805a11d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Accounts Receivable, Net and Other\nIncluded in \u201cAccounts receivable, net and other\u201d on our consolidated balance sheets are receivables primarily related to\ncustomers, vendors, and prepaid expenses and other current assets. As of December 31, 2024 and 2025, customer receivables,\nnet, were $34.3 billi"
+    },
+    {
+        "document_id": "23823465-13c5-4106-97b3-6fda640870ba",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "When we have the option to extend the lease term, terminate the lease before the contractual expiration date, or purchase\nthe leased asset, and it is reasonably certain that we will exercise the option, we consider the option in determining the\nclassification and measurement of the lease. Our leases"
+    },
+    {
+        "document_id": "e34be7f3-135f-45cb-a53b-8d1dc732fd6c",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "The weighted average remaining life of our capitalized video content is 3.2 years. We review usage and viewing patterns\nimpacting the amortization of capitalized video content on an ongoing basis and reflect any changes prospectively.\nOur produced and licensed video content is primarily monetized to"
+    },
+    {
+        "document_id": "b949556f-032d-4176-9bc5-449ad880ff3c",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "2026 financial statements, we will also record an upward adjustment of approximately $12 billion to our nonvoting preferred\nstock as of December 31, 2025 in \u201cOther income (expense), net\u201d to reflect observable changes in price.\nEquity investments in private companies not accounted for under the equit"
+    },
+    {
+        "document_id": "c8f6b3c7-35cd-4767-967f-6b0730832d10",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Unearned Revenue\nUnearned revenue is recorded when payments are received or due in advance of performing our service obligations and is\nrecognized over the service period. Unearned revenue primarily relates to prepayments of AWS services and Amazon Prime\nmemberships. Our total unearned revenue as of"
+    },
+    {
+        "document_id": "9c7ed794-9d01-4a6e-b2f3-c3eb46fba829",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Note 2 \u2014 FINANCIAL INSTRUMENTS\nCash, Cash Equivalents, Restricted Cash, and Marketable Securities\nAs of December 31, 2024 and 2025, our cash, cash equivalents, restricted cash, and marketable securities primarily\nconsisted of cash, AAA-rated money market funds, U.S. government and agency securities,"
+    },
+    {
+        "document_id": "a97708a8-05f9-4ade-98bb-2aea4a6c3585",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "December 31, 2025\nCost or Gross Gross Total\nAmortized Unrealized Unrealized Estimated\nCost Gains Losses Fair Value\nCash and time deposits $ 16,145 $ \u2014 $ \u2014 $ 16,145\nLevel 1:\nMoney market funds 29,777 \u2014 \u2014 29,777\nEquity securities (1) 3,687\nLevel 2:\nU.S. government and agency securities 5,231 8 (17) 5,"
+    },
+    {
+        "document_id": "691dfb97-9125-48cf-a2d3-1d1a04063e0b",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Consolidated Statements of Cash Flows Reconciliation\nThe following table provides a reconciliation of the amount of cash, cash equivalents, and restricted cash reported within\nthe consolidated balance sheets to the total of the same such amounts shown in the consolidated statements of cash flows (in"
+    },
+    {
+        "document_id": "c419cca6-4ede-4c3d-908c-5efed814473c",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Note 4 \u2014 LEASES\nWe have entered into non-cancellable operating and finance leases for fulfillment network, data center, office, and\nphysical store facilities as well as server and networking equipment, aircraft, and vehicles. Gross assets acquired under finance\nleases, including those where title tr"
+    },
+    {
+        "document_id": "4336d797-7de6-497b-898f-b08a3d6b327a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Note 5 \u2014 ACQUISITIONS, GOODWILL, AND ACQUIRED INTANGIBLE ASSETS\n2023 Acquisition Activity\nOn February 22, 2023, we acquired 1Life Healthcare, Inc. (One Medical), for cash consideration of approximately $3.5\nbillion, net of cash acquired, to provide healthcare options for customers. The acquired asse"
+    },
+    {
+        "document_id": "0d3f5aef-b4bf-4af7-abfa-5c5815ad62bf",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Intangible Assets\nAcquired identifiable intangible assets are valued primarily by using discounted cash flows. These assets are included\nwithin \u201cOther assets\u201d on our consolidated balance sheets and consist of the following (in millions):\nDecember 31,\n2024 2025\nAcquired Acquired Acquired Acquired Wei"
+    },
+    {
+        "document_id": "7dc08e0d-afdf-481c-8f74-6cfb4e91ef35",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Note 6 \u2014 DEBT\nAs of December 31, 2025, we had $68.0 billionof unsecured senior notes outstanding (the \u201cNotes\u201d), including $15.0\nbillion issued in November 2025 for general corporate purposes. Our total long-term debt obligations are as follows (in\nmillions):\nStated Interest Effective Interest\nMaturi"
+    },
+    {
+        "document_id": "136277ca-a314-4583-ad1f-b2cf1d45da24",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Commercial Paper Programs as of December 31, 2024 and 2025. We use the net proceeds from the issuance of commercial\npaper for general corporate purposes.\nWe havea $15.0 billion unsecured revolving credit facility with a syndicate of lenders (the \u201cCredit Agreement\u201d), with a\nterm that extends to Novem"
+    },
+    {
+        "document_id": "248c7f05-5f29-4f58-92fa-c6c8d4b41e43",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Suppliers\nDuring 2025, no vendor accounted for 10% or more of our purchases. We generally do not have long-term contracts or\narrangements with our vendors to guarantee the availability of merchandise, particular payment terms, or the extension of credit\nlimits.\nOther Contingencies\nWe are disputing c"
+    },
+    {
+        "document_id": "32359603-cea9-418e-80c3-60f3c0c3342a",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "courts are pre-certification. In the United Kingdom, two class actions have been certified and a third is pre-certification. In the\nU.S., one class action has been certified, and three others are pre-certification. We dispute the allegations of wrongdoing and\nintend to defend ourselves vigorously in"
+    },
+    {
+        "document_id": "f5221b50-5379-45b0-9ed7-ca6362bd5e9d",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Note 8 \u2014 STOCKHOLDERS\u2019 EQUITY\nPreferred Stock\nWe have authorized 500 million shares of $0.01 par value preferred stock. No preferred stock was outstanding for any\nyear presented.\nCommon Stock\nCommon shares outstanding plus shares underlying outstanding stock awards totaled 10.8 billion, 10.9 billion"
+    },
+    {
+        "document_id": "b4f9d8cf-b30b-4cbe-b2c2-5f32c9b00d6c",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Scheduled vesting for outstanding restricted stock units as of December 31, 2025, is as follows (in millions):\nYear Ended\n2026 2027 2028 2029 2030 Thereafter Total\nScheduled vesting \u2014 restricted stock units 110.4 69.9 30.7 9.8 0.8 0.9 222.5\nAs of December 31, 2025, there was $16.9 billion of net unr"
+    },
+    {
+        "document_id": "ef217e7a-441f-45ad-a6b4-e426e553c6a5",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "The 2025 Tax Act was signed into law on July 4, 2025. The 2025 Tax Act makes changes to the U.S. corporate income\ntax, including reinstating the option to claim 100% accelerated depreciation deductions on qualified property, with retroactive\napplication beginning January 20, 2025, and immediate expe"
+    },
+    {
+        "document_id": "4a342823-2441-4987-947a-b0937c207361",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "The items accounting for differences between income taxes computed at the federal statutory rate and the provision\nrecorded for income taxes are as follows (in millions, except percentages):\nYear Ended December 31,\n2023 2024 2025\nIncome taxes computed at the federal statutory rate $ 7,887 21.0 % $ 1"
+    },
+    {
+        "document_id": "0aebf6ec-64c7-41d0-b4a3-73b89f34d886",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Deferred income tax assets and liabilities are as follows (in millions):\nDecember 31,\n2024 2025\nDeferred tax assets (1):\nLoss carryforwards U.S. - Federal/States $ 692 $ 632\nLoss carryforwards - Foreign 2,687 2,936\nAccrued liabilities, reserves, and other expenses 4,254 5,545\nStock-based compensatio"
+    },
+    {
+        "document_id": "93c0c093-e628-4ff7-915d-d5d9527d5183",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "The reconciliation of our income tax contingencies is as follows (in millions):\nDecember 31,\n2023 2024 2025\nGross tax contingencies \u2013 January 1 $ 4,002 $ 5,228 $ 6,485\nGross increases to tax positions in prior periods 440 154 310\nGross decreases to tax positions in prior periods (38) (129) (1,180)\nG"
+    },
+    {
+        "document_id": "d3d050ac-2189-4faf-8236-7ec4e3b3a7b8",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "North America\nThe North America segment primarily consists of amounts earned from retail sales of consumer products (including from\nsellers) and advertising and subscription services through North America-focused online and physical stores. This segment\nincludes export sales from these online stores"
+    },
+    {
+        "document_id": "ca0c0471-e564-47f5-9dfa-7383d1d3ce93",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Net sales by groups of similar products and services, which also have similar economic characteristics, is as follows (in\nmillions):\nYear Ended December 31,\n2023 2024 2025\nNet Sales:\nOnline stores (1) $ 231,872 $ 247,029 $ 269,287\nPhysical stores (2) 20,030 21,215 22,561\nThird-party seller services "
+    },
+    {
+        "document_id": "db90e0a2-0837-4fcd-af61-2cff2b1a8bcc",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Total segment assets exclude corporate assets, such as cash and cash equivalents, marketable securities, other long-term\ninvestments, corporate facilities, goodwill and other acquired intangible assets, and tax assets. Technology infrastructure assets,\nwhich are included in property and equipment, n"
+    },
+    {
+        "document_id": "6807e724-9381-4b45-98de-bdbd5a3520e4",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Depreciation and amortization expense on property and equipment, including corporate property and equipment, are\nallocated to all segments based on usage.\nTotal depreciation and amortization expense, by segment, is as follows (in millions):\nYear Ended December 31,\n2023 2024 2025\nNorth America $ 13,6"
+    },
+    {
+        "document_id": "91fbbddc-34b5-4b02-8bad-b5a903feb7d6",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 9. Changes in and Disagreements with Accountants On Accounting and Financial Disclosure\nNone.\nItem 9A. Controls and Procedures\nEvaluation of Disclosure Controls and Procedures\nWe carried out an evaluation required by the Securities Exchange Act of 1934 (the \u201c1934 Act\u201d), under the supervision\nan"
+    },
+    {
+        "document_id": "246804da-9957-4a1f-bfe9-cb5416c799ab",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Report of Independent Registered Public Accounting Firm\nThe Board of Directors and Shareholders\nAmazon.com, Inc.\nOpinion on Internal Control Over Financial Reporting\nWe have audited Amazon.com, Inc.\u2019s internal control over financial reporting as of December 31, 2025, based on criteria\nestablished in"
+    },
+    {
+        "document_id": "e85fd627-9b21-4723-a8a3-b222481d17c9",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 9B. Other Information\nOn November 3, 2025, David A. Zapolsky, Senior Vice President, Chief Global Affairs and Legal Officer, adopted a\ntrading plan intended to satisfy Rule 10b5-1(c) to sell up to 64,059 shares of Amazon.com, Inc. common stock over a period\nending on November 30, 2026, subject "
+    },
+    {
+        "document_id": "5f83fdb2-2415-4c78-ab78-d3b7c7464301",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "Item 13. Certain Relationships and Related Transactions, and Director Independence\nInformation required by Item 13 of Part III is included in our Proxy Statement relating to our 2026 Annual Meeting of\nShareholders and is incorporated herein by reference.\nItem 14. Principal Accountant Fees and Servic"
+    },
+    {
+        "document_id": "b263616e-9019-4dc1-9f74-e66d27d52bdd",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "PART IV\nItem 15. Exhibits, Financial Statement Schedules\n(a) List of Documents Filed as a Part of This Report:\n(1) Index to Consolidated Financial Statements:\nReport of Ernst & Young LLP, Independent Registered Public Accounting Firm\nConsolidated Statements of Cash Flows for each of the three years "
+    },
+    {
+        "document_id": "e1674165-4483-492c-a636-2fcba4f99928",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "4.6 Officers\u2019 Certificate of Amazon.com, Inc., dated as of May 12, 2021, containing Form of 0.250% Note due 2023,\nForm of 0.450% Note due 2024, Form of 1.000% Note due 2026, Form of 1.650% Note due 2028, Form of 2.100%\nNote due 2031, Form of 2.875% Note due 2041, Form of 3.100% Note due 2051, and Fo"
+    },
+    {
+        "document_id": "34008b38-fd86-4677-ac17-83f789467769",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "32.2 Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc.,\npursuant to 18 U.S.C. Section 1350.\nAmazon.com, Inc. Clawback Policy (incorporated by reference to the Company\u2019s Annual Report on Form 10-K for\n97.1 the Year ended December 31, 2023).\n101 "
+    },
+    {
+        "document_id": "bf1bfd72-cff8-44fc-9f35-7b86a252b779",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "SIGNATURES\nPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused\nthis Report to be signed on its behalf by the undersigned, thereunto duly authorized, as of February 5, 2026.\nAMAZON.COM, INC.\nBy: /s/ Andrew R. Jassy\nAndrew R. Jassy"
+    },
+    {
+        "document_id": "293e24a1-faa2-40ad-8ab6-40a4724aef54",
+        "source": "Amazon-2025-Annual-Report.pdf",
+        "summary": "StockPricePerformanceGraph\nThegraphsetforthbelowcomparescumulativetotalreturnonthecommonstockwiththecumulative\ntotalreturnof theNYSETechnologyIndex,theS&P500Index,andtheS&P500ConsumerDiscretionary\nDistribution & Retail Index, resulting from an initial investment of $100 in each and, except in the ca"
+    },
+    {
+        "document_id": "b61152e0-0efe-40af-b94e-c45bd16168c3",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: Apple | Sector: Technology | Revenue ($B): 13.9 | Net Income ($B): 1.3 | R&D Spend ($B): 0.5 | Employees (K): 14.8"
+    },
+    {
+        "document_id": "063de05b-0268-4a20-a2bd-126080bfd41f",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: Apple | Sector: Technology | Revenue ($B): 19.3 | Net Income ($B): 2.0 | R&D Spend ($B): 0.7 | Employees (K): 17.8"
+    },
+    {
+        "document_id": "a33dace8-0a86-448b-b9a1-b7f5e608eb63",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: Apple | Sector: Technology | Revenue ($B): 24.0 | Net Income ($B): 3.5 | R&D Spend ($B): 0.8 | Employees (K): 21.6"
+    },
+    {
+        "document_id": "6903c884-07ca-4412-9b5f-4f233bb309b2",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: Apple | Sector: Technology | Revenue ($B): 32.5 | Net Income ($B): 4.8 | R&D Spend ($B): 1.1 | Employees (K): 32.0"
+    },
+    {
+        "document_id": "d6b762b7-a2a8-487d-85dc-2c72b9743c78",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: Apple | Sector: Technology | Revenue ($B): 36.5 | Net Income ($B): 5.7 | R&D Spend ($B): 1.3 | Employees (K): 34.3"
+    },
+    {
+        "document_id": "1a06ce62-014b-4595-8178-f644729979b3",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: Apple | Sector: Technology | Revenue ($B): 65.2 | Net Income ($B): 14.0 | R&D Spend ($B): 1.8 | Employees (K): 46.6"
+    },
+    {
+        "document_id": "9e500390-bfff-445a-a94a-9e77c6759412",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: Apple | Sector: Technology | Revenue ($B): 108.2 | Net Income ($B): 26.0 | R&D Spend ($B): 2.4 | Employees (K): 60.4"
+    },
+    {
+        "document_id": "141f0289-5719-4e74-ab78-688f9669088d",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: Apple | Sector: Technology | Revenue ($B): 156.5 | Net Income ($B): 41.7 | R&D Spend ($B): 3.4 | Employees (K): 72.8"
+    },
+    {
+        "document_id": "477e5787-2f86-4dbc-a327-b8bf50da1707",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: Apple | Sector: Technology | Revenue ($B): 170.9 | Net Income ($B): 37.0 | R&D Spend ($B): 4.5 | Employees (K): 80.3"
+    },
+    {
+        "document_id": "49007272-5e2e-4ddf-a6df-1e3dff26c16d",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: Google | Sector: Technology | Revenue ($B): 6.1 | Net Income ($B): 1.5 | R&D Spend ($B): 0.6 | Employees (K): 5.7"
+    },
+    {
+        "document_id": "723e168b-318c-438f-9413-a31a845b8d4d",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: Google | Sector: Technology | Revenue ($B): 10.6 | Net Income ($B): 3.1 | R&D Spend ($B): 1.2 | Employees (K): 10.7"
+    },
+    {
+        "document_id": "d9e8f1de-b4a8-46a9-a4a8-34ea6e8e5eb9",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: Google | Sector: Technology | Revenue ($B): 16.6 | Net Income ($B): 4.2 | R&D Spend ($B): 2.1 | Employees (K): 16.8"
+    },
+    {
+        "document_id": "551eff9e-1fc8-492f-86b3-c1b11b9a6911",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: Google | Sector: Technology | Revenue ($B): 21.8 | Net Income ($B): 4.2 | R&D Spend ($B): 2.8 | Employees (K): 20.2"
+    },
+    {
+        "document_id": "2978976e-e386-463c-9cb4-a70193edabb1",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: Google | Sector: Technology | Revenue ($B): 23.7 | Net Income ($B): 6.5 | R&D Spend ($B): 2.8 | Employees (K): 19.8"
+    },
+    {
+        "document_id": "90a29286-8f1b-4089-ae83-63bf2d18593b",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: Google | Sector: Technology | Revenue ($B): 29.3 | Net Income ($B): 8.5 | R&D Spend ($B): 3.8 | Employees (K): 24.4"
+    },
+    {
+        "document_id": "85aae2e3-a7c1-4531-901f-16580f196a7d",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: Google | Sector: Technology | Revenue ($B): 37.9 | Net Income ($B): 9.7 | R&D Spend ($B): 5.2 | Employees (K): 32.5"
+    },
+    {
+        "document_id": "0ef00b41-25ce-4dd2-aadc-1796b2f47e8f",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: Google | Sector: Technology | Revenue ($B): 50.2 | Net Income ($B): 10.7 | R&D Spend ($B): 6.8 | Employees (K): 53.9"
+    },
+    {
+        "document_id": "7829b86c-8438-4eab-b282-d5efd879fdb1",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: Google | Sector: Technology | Revenue ($B): 55.5 | Net Income ($B): 12.9 | R&D Spend ($B): 7.1 | Employees (K): 47.2"
+    },
+    {
+        "document_id": "94e608c8-f66e-43d1-9877-669ce86a6c13",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: Microsoft | Sector: Technology | Revenue ($B): 39.8 | Net Income ($B): 12.3 | R&D Spend ($B): 6.1 | Employees (K): 61.0"
+    },
+    {
+        "document_id": "c4c6fffb-4737-4d96-a4bc-6065b524c38b",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: Microsoft | Sector: Technology | Revenue ($B): 44.3 | Net Income ($B): 12.6 | R&D Spend ($B): 6.6 | Employees (K): 71.2"
+    },
+    {
+        "document_id": "4652a63e-eb3b-4114-bb50-08dd7a8690d6",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: Microsoft | Sector: Technology | Revenue ($B): 51.1 | Net Income ($B): 14.1 | R&D Spend ($B): 7.1 | Employees (K): 79.0"
+    },
+    {
+        "document_id": "88066736-f2f0-4d7a-a7bf-74b78a45ac82",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: Microsoft | Sector: Technology | Revenue ($B): 60.4 | Net Income ($B): 17.7 | R&D Spend ($B): 8.2 | Employees (K): 91.0"
+    },
+    {
+        "document_id": "6ede5970-7a24-4820-8a64-2cb72c2df7e1",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: Microsoft | Sector: Technology | Revenue ($B): 58.4 | Net Income ($B): 14.6 | R&D Spend ($B): 9.0 | Employees (K): 93.0"
+    },
+    {
+        "document_id": "355afe7a-068e-41b1-85e2-6caa679791b9",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: Microsoft | Sector: Technology | Revenue ($B): 62.5 | Net Income ($B): 18.8 | R&D Spend ($B): 8.7 | Employees (K): 89.0"
+    },
+    {
+        "document_id": "99f3425a-608b-4d28-ae6c-2881ec2cfa45",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: Microsoft | Sector: Technology | Revenue ($B): 69.9 | Net Income ($B): 23.2 | R&D Spend ($B): 9.0 | Employees (K): 90.0"
+    },
+    {
+        "document_id": "b5852679-9f8e-4f99-b5e2-49185e96f9aa",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: Microsoft | Sector: Technology | Revenue ($B): 73.7 | Net Income ($B): 16.9 | R&D Spend ($B): 9.8 | Employees (K): 94.0"
+    },
+    {
+        "document_id": "9f749501-98a2-4bb2-b6eb-c164ef5b3271",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: Microsoft | Sector: Technology | Revenue ($B): 77.8 | Net Income ($B): 21.9 | R&D Spend ($B): 10.4 | Employees (K): 99.0"
+    },
+    {
+        "document_id": "946960ae-6a11-445f-aaf9-b479ef8264b3",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 8.5 | Net Income ($B): 0.4 | R&D Spend ($B): 0.5 | Employees (K): 14.0"
+    },
+    {
+        "document_id": "9cf7927c-29a5-4b47-a554-b2ba53001d40",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 10.7 | Net Income ($B): 0.2 | R&D Spend ($B): 0.6 | Employees (K): 13.9"
+    },
+    {
+        "document_id": "f4ae9a0a-79f0-4b0a-a10d-8a6453ed7220",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 14.8 | Net Income ($B): 0.5 | R&D Spend ($B): 0.8 | Employees (K): 17.0"
+    },
+    {
+        "document_id": "fedd5e8b-ff87-4178-a8f4-920439719da1",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 19.2 | Net Income ($B): 0.6 | R&D Spend ($B): 1.0 | Employees (K): 20.7"
+    },
+    {
+        "document_id": "264c0fd3-97e1-4482-a9d5-d210d89f5e7f",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 24.5 | Net Income ($B): 0.9 | R&D Spend ($B): 1.2 | Employees (K): 24.3"
+    },
+    {
+        "document_id": "43d7b897-81bd-466a-a5fe-b9bfb166762b",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 34.2 | Net Income ($B): 1.2 | R&D Spend ($B): 1.7 | Employees (K): 33.7"
+    },
+    {
+        "document_id": "9ff952f0-307b-4305-a76a-6c5ac70cda6a",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 48.1 | Net Income ($B): 0.6 | R&D Spend ($B): 2.9 | Employees (K): 56.2"
+    },
+    {
+        "document_id": "7ecb7e2f-e328-4d97-a8b3-e005d84b9f51",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 61.1 | Net Income ($B): -0.04 | R&D Spend ($B): 4.6 | Employees (K): 88.4"
+    },
+    {
+        "document_id": "418d164d-ac97-4f93-ad39-cb2bce1c6e55",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: Amazon | Sector: Consumer Cyclical | Revenue ($B): 74.5 | Net Income ($B): 0.3 | R&D Spend ($B): 6.6 | Employees (K): 117.3"
+    },
+    {
+        "document_id": "5aaf2b00-efba-47c0-b82c-edf360de933a",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: JPMorgan | Sector: Financial | Revenue ($B): 79.9 | Net Income ($B): 8.5 | R&D Spend ($B): 0.0 | Employees (K): 168.8"
+    },
+    {
+        "document_id": "7cbe18f5-1b2e-48f7-b68d-a4fab4c6600b",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: JPMorgan | Sector: Financial | Revenue ($B): 99.3 | Net Income ($B): 14.4 | R&D Spend ($B): 0.0 | Employees (K): 174.4"
+    },
+    {
+        "document_id": "d9628dc9-d1eb-4be5-93a9-4cddcc285607",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: JPMorgan | Sector: Financial | Revenue ($B): 116.4 | Net Income ($B): 15.4 | R&D Spend ($B): 0.0 | Employees (K): 180.7"
+    },
+    {
+        "document_id": "91f299c0-b53d-4cd2-a18a-bce62bfb95b9",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: JPMorgan | Sector: Financial | Revenue ($B): 67.3 | Net Income ($B): 5.6 | R&D Spend ($B): 0.0 | Employees (K): 224.9"
+    },
+    {
+        "document_id": "fd0bd36e-3373-49b7-99d5-12852b626a49",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: JPMorgan | Sector: Financial | Revenue ($B): 100.4 | Net Income ($B): 11.7 | R&D Spend ($B): 0.0 | Employees (K): 222.3"
+    },
+    {
+        "document_id": "6ab31018-8a65-46bc-8acb-2e937d28e885",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: JPMorgan | Sector: Financial | Revenue ($B): 104.8 | Net Income ($B): 17.4 | R&D Spend ($B): 0.0 | Employees (K): 234.0"
+    },
+    {
+        "document_id": "d71fde25-114c-420b-a4e2-defc4494f42f",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: JPMorgan | Sector: Financial | Revenue ($B): 110.8 | Net Income ($B): 19.0 | R&D Spend ($B): 0.0 | Employees (K): 260.2"
+    },
+    {
+        "document_id": "b0cb8622-4f16-4823-9406-7fc1250e3af4",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: JPMorgan | Sector: Financial | Revenue ($B): 99.9 | Net Income ($B): 21.3 | R&D Spend ($B): 0.0 | Employees (K): 258.9"
+    },
+    {
+        "document_id": "af4f933f-6f35-4f09-aee2-3c7a7b0a922a",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: JPMorgan | Sector: Financial | Revenue ($B): 105.7 | Net Income ($B): 17.9 | R&D Spend ($B): 0.0 | Employees (K): 251.2"
+    },
+    {
+        "document_id": "4a970da9-c2d0-4f9d-aa58-50c71d36e53b",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2005 | Company: Samsung | Sector: Technology | Revenue ($B): 78.6 | Net Income ($B): 7.4 | R&D Spend ($B): 5.3 | Employees (K): 113.7"
+    },
+    {
+        "document_id": "1c9ed007-625b-40f4-8df4-21575f6cf166",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2006 | Company: Samsung | Sector: Technology | Revenue ($B): 92.0 | Net Income ($B): 8.2 | R&D Spend ($B): 6.1 | Employees (K): 128.4"
+    },
+    {
+        "document_id": "acdeb800-31ef-464c-bd17-b32ff2aed5bc",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2007 | Company: Samsung | Sector: Technology | Revenue ($B): 105.9 | Net Income ($B): 8.1 | R&D Spend ($B): 7.8 | Employees (K): 138.4"
+    },
+    {
+        "document_id": "5ab0da7f-e622-4f96-bb8d-74c415bef9cd",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2008 | Company: Samsung | Sector: Technology | Revenue ($B): 98.5 | Net Income ($B): 5.5 | R&D Spend ($B): 7.0 | Employees (K): 150.2"
+    },
+    {
+        "document_id": "934949bd-90eb-4596-b3e2-249599fcd1e4",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2009 | Company: Samsung | Sector: Technology | Revenue ($B): 117.4 | Net Income ($B): 8.8 | R&D Spend ($B): 7.9 | Employees (K): 157.4"
+    },
+    {
+        "document_id": "82e65f65-d7f3-4e72-a765-eef50fea8bdc",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2010 | Company: Samsung | Sector: Technology | Revenue ($B): 154.6 | Net Income ($B): 13.4 | R&D Spend ($B): 8.8 | Employees (K): 190.4"
+    },
+    {
+        "document_id": "7487d5e9-4bff-4890-a2c3-1aad376be3a8",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2011 | Company: Samsung | Sector: Technology | Revenue ($B): 149.0 | Net Income ($B): 13.6 | R&D Spend ($B): 9.3 | Employees (K): 221.7"
+    },
+    {
+        "document_id": "4d87e2ff-7426-4888-8bfe-8f32ce183db7",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2012 | Company: Samsung | Sector: Technology | Revenue ($B): 200.7 | Net Income ($B): 20.6 | R&D Spend ($B): 10.9 | Employees (K): 236.1"
+    },
+    {
+        "document_id": "dfcd45c4-f414-4955-93a6-0b7d39cd0fee",
+        "source": "Copy of company_financials.xlsx",
+        "summary": "Year: 2013 | Company: Samsung | Sector: Technology | Revenue ($B): 228.7 | Net Income ($B): 27.2 | R&D Spend ($B): 13.4 | Employees (K): 286.3"
+    }
+]
